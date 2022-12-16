@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592625209 source:e:\c\cpii_quiz09_home\cardofdeck\src\card.cpp
+	<iostream>
+	"card.h"
+
+1592625172 e:\c\cpii_quiz09_home\cardofdeck\include\card.h
+	<string>
+
+1592809515 source:e:\c\cpii_quiz09_home\cardofdeck\main.cpp
+	<iostream>
+	"card.h"
+	<iomanip>
+

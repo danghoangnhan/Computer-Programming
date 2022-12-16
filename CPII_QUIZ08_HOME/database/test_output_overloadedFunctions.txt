@@ -1,0 +1,540 @@
+H H H H H H H H H
+
+H
+
+M Y Y Y Y Y Y Y Y
+L M Y Y Y Y Y Y Y
+
+L
+
+D D D D D D D D D
+D D D D D D D D D
+D D D D D D D D D
+D D D D D D D D D
+D D D D D D D D D
+D D D D D D D D D
+D D D D D D D D D
+
+R R
+R R
+
+C G G G G G
+B C G G G G
+
+K K K K K K K
+
+Q Q
+Q Q
+Q Q
+Q Q
+
+W F F
+O W F
+O O W
+O O O
+O O O
+O O O
+O O O
+O O O
+O O O
+O O O
+
+V T T T T
+T V T T T
+T T V T T
+T T T V T
+
+J E E E
+P J E E
+P P J E
+P P P J
+P P P P
+P P P P
+P P P P
+P P P P
+P P P P
+
+G P P P P
+N G P P P
+N N G P P
+N N N G P
+N N N N G
+N N N N N
+N N N N N
+N N N N N
+
+V V V V V V
+
+T T T T T T T
+
+C C C C C C
+C C C C C C
+C C C C C C
+
+Y Y Y Y Y Y Y
+Y Y Y Y Y Y Y
+Y Y Y Y Y Y Y
+Y Y Y Y Y Y Y
+Y Y Y Y Y Y Y
+Y Y Y Y Y Y Y
+
+E
+
+I F F F F
+F I F F F
+F F I F F
+F F F I F
+F F F F I
+F F F F F
+F F F F F
+
+Z M
+M Z
+M M
+M M
+M M
+M M
+M M
+
+K K K K K K K K K
+
+V V V
+
+R Z Z
+K R Z
+K K R
+K K K
+
+C X X X X X X X X X
+X C X X X X X X X X
+X X C X X X X X X X
+X X X C X X X X X X
+X X X X C X X X X X
+X X X X X C X X X X
+X X X X X X C X X X
+X X X X X X X C X X
+
+L
+
+G S
+S G
+S S
+S S
+S S
+
+A O O O O O O O O O
+O A O O O O O O O O
+O O A O O O O O O O
+O O O A O O O O O O
+O O O O A O O O O O
+O O O O O A O O O O
+O O O O O O A O O O
+O O O O O O O A O O
+O O O O O O O O A O
+O O O O O O O O O A
+
+E E E E
+E E E E
+E E E E
+E E E E
+E E E E
+E E E E
+E E E E
+E E E E
+
+B E E
+E B E
+E E B
+E E E
+E E E
+E E E
+E E E
+E E E
+
+U U U U U U U U U U
+
+V V V V V V V V V V
+V V V V V V V V V V
+V V V V V V V V V V
+V V V V V V V V V V
+V V V V V V V V V V
+V V V V V V V V V V
+
+Y Y Y Y Y
+Y Y Y Y Y
+Y Y Y Y Y
+Y Y Y Y Y
+Y Y Y Y Y
+Y Y Y Y Y
+Y Y Y Y Y
+Y Y Y Y Y
+Y Y Y Y Y
+
+E F F F F
+P E F F F
+P P E F F
+
+N N N N N N N N
+N N N N N N N N
+N N N N N N N N
+N N N N N N N N
+
+V I I I I I I I I
+I V I I I I I I I
+I I V I I I I I I
+I I I V I I I I I
+I I I I V I I I I
+I I I I I V I I I
+I I I I I I V I I
+I I I I I I I V I
+I I I I I I I I V
+I I I I I I I I I
+
+Y Y Y Y Y Y Y
+
+Y Y Y Y Y Y Y Y Y
+
+W Q Q Q
+Q W Q Q
+
+Q
+
+M J J J
+J M J J
+J J M J
+J J J M
+J J J J
+J J J J
+J J J J
+J J J J
+J J J J
+J J J J
+
+O O O O O O O
+
+A A A A A A A
+
+U
+
+W W W W W W W W
+
+S B
+B S
+B B
+
+C S S S S S S S
+F C S S S S S S
+F F C S S S S S
+F F F C S S S S
+
+K K K K K K K K
+K K K K K K K K
+K K K K K K K K
+K K K K K K K K
+K K K K K K K K
+K K K K K K K K
+K K K K K K K K
+K K K K K K K K
+K K K K K K K K
+
+X N
+N X
+
+Y H H H
+H Y H H
+H H Y H
+H H H Y
+H H H H
+H H H H
+H H H H
+H H H H
+H H H H
+H H H H
+
+I I I I
+
+S K
+K S
+K K
+
+F X X X X X X
+X F X X X X X
+X X F X X X X
+X X X F X X X
+X X X X F X X
+X X X X X F X
+
+R M M M M
+M R M M M
+M M R M M
+M M M R M
+M M M M R
+M M M M M
+
+M O O O O
+O M O O O
+
+K
+
+T H H H H H H H H H
+H T H H H H H H H H
+H H T H H H H H H H
+H H H T H H H H H H
+H H H H T H H H H H
+H H H H H T H H H H
+H H H H H H T H H H
+
+K K K K K K K K K
+K K K K K K K K K
+K K K K K K K K K
+K K K K K K K K K
+K K K K K K K K K
+K K K K K K K K K
+K K K K K K K K K
+K K K K K K K K K
+
+G G G
+G G G
+G G G
+G G G
+G G G
+G G G
+G G G
+
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+
+U I I I
+I U I I
+
+J J J J
+J J J J
+J J J J
+J J J J
+J J J J
+J J J J
+J J J J
+J J J J
+
+Y Y Y Y
+Y Y Y Y
+Y Y Y Y
+Y Y Y Y
+
+S P P P P
+S S P P P
+S S S P P
+S S S S P
+S S S S S
+
+J J J J
+J J J J
+J J J J
+J J J J
+J J J J
+J J J J
+
+G G G G G G G G G G
+G G G G G G G G G G
+G G G G G G G G G G
+
+A
+
+O
+
+L L
+L L
+L L
+L L
+L L
+L L
+L L
+
+T D D D D D D D D
+C T D D D D D D D
+C C T D D D D D D
+C C C T D D D D D
+C C C C T D D D D
+C C C C C T D D D
+C C C C C C T D D
+C C C C C C C T D
+C C C C C C C C T
+
+W
+
+R R R R R R R R
+
+S S S S S
+S S S S S
+S S S S S
+S S S S S
+
+D D D D D D D
+
+C Z Z Z Z Z Z
+C C Z Z Z Z Z
+
+F Q Q Q Q Q
+I F Q Q Q Q
+I I F Q Q Q
+I I I F Q Q
+I I I I F Q
+I I I I I F
+I I I I I I
+I I I I I I
+I I I I I I
+I I I I I I
+
+T W W W W W W W W
+W T W W W W W W W
+W W T W W W W W W
+W W W T W W W W W
+W W W W T W W W W
+
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+X X X X X X
+
+B B B B B B
+
+V
+
+Y Y Y Y Y Y
+
+G S S S S
+S G S S S
+S S G S S
+S S S G S
+S S S S G
+S S S S S
+S S S S S
+S S S S S
+S S S S S
+S S S S S
+
+M M M M M M M M M
+
+R R R R
+
+L
+
+C P P P P P P
+P C P P P P P
+P P C P P P P
+P P P C P P P
+P P P P C P P
+P P P P P C P
+P P P P P P C
+P P P P P P P
+P P P P P P P
+P P P P P P P
+
+O M M
+M O M
+M M O
+M M M
+M M M
+M M M
+M M M
+M M M
+M M M
+
+N N N N N
+N N N N N
+N N N N N
+N N N N N
+N N N N N
+N N N N N
+
+F F
+F F
+F F
+
+T
+
+G G G G G G G
+
+X X X X X X X X X X
+X X X X X X X X X X
+
+A E E E E
+T A E E E
+T T A E E
+T T T A E
+
+U P P P P P P
+Z U P P P P P
+Z Z U P P P P
+Z Z Z U P P P
+Z Z Z Z U P P
+Z Z Z Z Z U P
+Z Z Z Z Z Z U
+Z Z Z Z Z Z Z
+Z Z Z Z Z Z Z
+Z Z Z Z Z Z Z
+
+H J J J J J J J J
+J H J J J J J J J
+J J H J J J J J J
+J J J H J J J J J
+J J J J H J J J J
+J J J J J H J J J
+J J J J J J H J J
+
+G E E E E
+K G E E E
+K K G E E
+K K K G E
+K K K K G
+
+D J J J J J J J J J
+E D J J J J J J J J
+E E D J J J J J J J
+E E E D J J J J J J
+E E E E D J J J J J
+E E E E E D J J J J
+E E E E E E D J J J
+E E E E E E E D J J
+E E E E E E E E D J
+E E E E E E E E E D
+
+P P P P P P P P P P
+P P P P P P P P P P
+P P P P P P P P P P
+P P P P P P P P P P
+P P P P P P P P P P
+P P P P P P P P P P
+P P P P P P P P P P
+
+G E E E E E E E
+E G E E E E E E
+E E G E E E E E
+E E E G E E E E
+E E E E G E E E
+E E E E E G E E
+E E E E E E G E
+E E E E E E E G
+E E E E E E E E
+E E E E E E E E
+
+J D D D D D
+D J D D D D
+D D J D D D
+D D D J D D
+D D D D J D
+D D D D D J
+D D D D D D
+
+J
+

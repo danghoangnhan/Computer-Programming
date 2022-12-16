@@ -1,0 +1,500 @@
+Three of Clubs, Four of Spades, Eight of Spades, King of Diamonds, and Ace of Spades are High Card
+Two of Spades, Three of Hearts, Seven of Diamonds, Nine of Spades, and Jack of Clubs are High Card
+Five of Spades, Six of Hearts, Seven of Spades, Ten of Clubs, and King of Clubs are High Card
+Three of Diamonds, Six of Clubs, Six of Diamonds, Queen of Spades, and King of Diamonds are Pair
+Six of Clubs, Nine of Diamonds, Nine of Spades, Jack of Spades, and Ace of Spades are Pair
+Three of Diamonds, Four of Hearts, Six of Diamonds, Seven of Diamonds, and Queen of Diamonds are High Card
+Two of Spades, Three of Spades, Nine of Clubs, Nine of Diamonds, and Queen of Diamonds are Pair
+Three of Spades, Eight of Spades, Nine of Diamonds, Queen of Diamonds, and Ace of Diamonds are High Card
+Two of Spades, Eight of Hearts, Nine of Spades, Ten of Clubs, and King of Spades are High Card
+Eight of Clubs, Ten of Spades, Jack of Hearts, Queen of Diamonds, and Ace of Clubs are High Card
+Two of Spades, Four of Diamonds, Jack of Hearts, King of Clubs, and King of Spades are Pair
+Three of Clubs, Four of Hearts, Four of Spades, Seven of Clubs, and Eight of Clubs are Pair
+Three of Diamonds, Three of Spades, Nine of Diamonds, Queen of Clubs, and Ace of Clubs are Pair
+Three of Hearts, Seven of Clubs, Jack of Hearts, Queen of Hearts, and King of Spades are High Card
+Two of Clubs, Three of Hearts, Three of Spades, Six of Spades, and Queen of Spades are Pair
+Two of Diamonds, Six of Hearts, Nine of Spades, Ten of Diamonds, and Queen of Hearts are High Card
+Five of Diamonds, Eight of Diamonds, Jack of Spades, King of Diamonds, and Ace of Spades are High Card
+Three of Diamonds, Five of Hearts, Jack of Diamonds, Queen of Diamonds, and Ace of Hearts are High Card
+Four of Diamonds, Five of Hearts, Seven of Diamonds, Jack of Clubs, and King of Hearts are High Card
+Four of Hearts, Ten of Hearts, Ten of Spades, Queen of Spades, and King of Spades are Pair
+Two of Hearts, Four of Spades, Six of Diamonds, Eight of Clubs, and Ten of Diamonds are High Card
+Four of Diamonds, Five of Spades, Eight of Spades, Ten of Spades, and Queen of Hearts are High Card
+Three of Diamonds, Four of Clubs, Nine of Spades, King of Clubs, and Ace of Spades are High Card
+Two of Spades, Three of Clubs, Three of Spades, Nine of Clubs, and King of Diamonds are Pair
+Three of Spades, Four of Spades, Seven of Clubs, Queen of Spades, and Ace of Spades are High Card
+Two of Diamonds, Three of Spades, Four of Spades, Five of Spades, and King of Hearts are High Card
+Two of Clubs, Three of Diamonds, Eight of Spades, Ten of Hearts, and Jack of Hearts are High Card
+Two of Clubs, Four of Clubs, Six of Spades, Nine of Diamonds, and Ace of Diamonds are High Card
+Six of Hearts, Eight of Spades, Nine of Diamonds, Jack of Hearts, and King of Diamonds are High Card
+Five of Hearts, Five of Spades, Nine of Hearts, Jack of Clubs, and Ace of Diamonds are Pair
+Four of Hearts, Ten of Diamonds, Ten of Spades, Jack of Clubs, and Jack of Hearts are Two Pairs
+Four of Clubs, Seven of Diamonds, Seven of Hearts, Ten of Hearts, and King of Spades are Pair
+Three of Diamonds, Six of Clubs, Nine of Clubs, King of Clubs, and Ace of Clubs are High Card
+Five of Diamonds, Eight of Spades, Ten of Clubs, Ten of Hearts, and King of Clubs are Pair
+Two of Spades, Five of Diamonds, Five of Hearts, Six of Spades, and Eight of Clubs are Pair
+Two of Hearts, Three of Clubs, Five of Hearts, Six of Hearts, and Jack of Spades are High Card
+Two of Diamonds, Five of Diamonds, Seven of Spades, Eight of Clubs, and King of Clubs are High Card
+Three of Hearts, Eight of Clubs, Eight of Spades, Jack of Hearts, and Queen of Diamonds are Pair
+Four of Spades, Five of Diamonds, Six of Hearts, Eight of Hearts, and Nine of Spades are High Card
+Four of Diamonds, Six of Spades, Eight of Diamonds, Nine of Diamonds, and King of Hearts are High Card
+Four of Hearts, Five of Hearts, Six of Spades, Nine of Spades, and Ace of Clubs are High Card
+Two of Hearts, Three of Clubs, Five of Clubs, Jack of Spades, and King of Clubs are High Card
+Four of Hearts, Seven of Spades, Eight of Hearts, Ten of Spades, and Queen of Clubs are High Card
+Three of Diamonds, Four of Hearts, Seven of Clubs, Nine of Clubs, and Queen of Spades are High Card
+Two of Hearts, Three of Spades, Five of Clubs, Jack of Clubs, and Ace of Spades are High Card
+Three of Diamonds, Three of Hearts, Four of Spades, Five of Spades, and King of Spades are Pair
+Four of Hearts, Six of Clubs, Ten of Spades, Jack of Diamonds, and Queen of Diamonds are High Card
+Two of Hearts, Four of Spades, Six of Spades, Eight of Diamonds, and Ten of Diamonds are High Card
+Three of Spades, Four of Diamonds, Four of Spades, Queen of Hearts, and Ace of Hearts are Pair
+Three of Hearts, Jack of Clubs, Jack of Diamonds, Jack of Hearts, and Ace of Clubs are Three of a Kind
+Two of Diamonds, Five of Diamonds, Six of Diamonds, Six of Spades, and Queen of Hearts are Pair
+Five of Hearts, Five of Spades, Six of Clubs, Six of Diamonds, and Nine of Spades are Two Pairs
+Ten of Clubs, Queen of Spades, King of Diamonds, King of Hearts, and King of Spades are Three of a Kind
+Three of Clubs, Five of Hearts, Eight of Clubs, Nine of Hearts, and Ten of Spades are High Card
+Three of Hearts, Three of Spades, Seven of Clubs, Queen of Spades, and Ace of Hearts are Pair
+Two of Diamonds, Four of Spades, Five of Clubs, Five of Hearts, and King of Spades are Pair
+Eight of Clubs, Queen of Clubs, Queen of Spades, King of Clubs, and King of Spades are Two Pairs
+Three of Hearts, Six of Diamonds, Six of Spades, Seven of Diamonds, and King of Spades are Pair
+Four of Hearts, Nine of Diamonds, Nine of Hearts, Queen of Clubs, and King of Spades are Pair
+Two of Hearts, Six of Hearts, Eight of Hearts, Queen of Diamonds, and Ace of Hearts are High Card
+Four of Diamonds, Four of Hearts, Six of Spades, Seven of Diamonds, and Eight of Hearts are Pair
+Five of Diamonds, Seven of Clubs, Seven of Spades, Ten of Clubs, and Queen of Diamonds are Pair
+Two of Diamonds, Two of Hearts, Six of Hearts, Nine of Hearts, and Ten of Clubs are Pair
+Six of Spades, Seven of Clubs, Eight of Spades, Jack of Spades, and Queen of Clubs are High Card
+Two of Hearts, Seven of Hearts, Seven of Spades, Eight of Spades, and King of Hearts are Pair
+Three of Hearts, Ten of Clubs, Ten of Diamonds, Ten of Spades, and King of Clubs are Three of a Kind
+Three of Hearts, Four of Hearts, Six of Hearts, Ten of Spades, and Queen of Clubs are High Card
+Four of Clubs, Five of Clubs, Five of Spades, Seven of Spades, and Ace of Diamonds are Pair
+Two of Hearts, Three of Spades, Four of Clubs, Jack of Clubs, and Queen of Hearts are High Card
+Four of Clubs, Four of Spades, Eight of Clubs, Eight of Diamonds, and King of Hearts are Two Pairs
+Four of Diamonds, Seven of Hearts, Jack of Clubs, Queen of Clubs, and King of Spades are High Card
+Five of Spades, Nine of Hearts, Queen of Clubs, King of Spades, and Ace of Hearts are High Card
+Five of Hearts, Five of Spades, Eight of Diamonds, Eight of Hearts, and Jack of Hearts are Two Pairs
+Four of Clubs, Five of Clubs, Seven of Spades, King of Hearts, and Ace of Diamonds are High Card
+Three of Diamonds, Four of Diamonds, Four of Hearts, Jack of Spades, and Ace of Spades are Pair
+Two of Clubs, Two of Diamonds, Nine of Clubs, Ten of Spades, and Queen of Diamonds are Pair
+Two of Clubs, Three of Hearts, Four of Clubs, Ten of Hearts, and Jack of Hearts are High Card
+Six of Diamonds, Six of Hearts, Nine of Hearts, Ten of Hearts, and Jack of Spades are Pair
+Two of Diamonds, Three of Diamonds, Four of Hearts, Eight of Spades, and Ten of Diamonds are High Card
+Three of Hearts, Five of Clubs, Six of Diamonds, Seven of Hearts, and King of Diamonds are High Card
+Three of Clubs, Six of Clubs, Eight of Clubs, Nine of Hearts, and Queen of Hearts are High Card
+Three of Hearts, Three of Spades, Six of Hearts, Nine of Spades, and Jack of Hearts are Pair
+Seven of Hearts, Eight of Clubs, King of Clubs, King of Spades, and Ace of Hearts are Pair
+Two of Spades, Three of Spades, Five of Diamonds, King of Spades, and Ace of Spades are High Card
+Six of Diamonds, Jack of Hearts, King of Hearts, Ace of Clubs, and Ace of Spades are Pair
+Three of Diamonds, Six of Diamonds, Six of Spades, Eight of Spades, and Nine of Diamonds are Pair
+Seven of Hearts, Ten of Hearts, Jack of Diamonds, Queen of Clubs, and King of Hearts are High Card
+Four of Clubs, Four of Spades, Nine of Clubs, Ten of Diamonds, and Jack of Diamonds are Pair
+Three of Hearts, Four of Diamonds, Four of Hearts, Five of Spades, and Ace of Clubs are Pair
+Two of Clubs, Seven of Clubs, Eight of Spades, Ten of Spades, and Queen of Clubs are High Card
+Two of Clubs, Five of Diamonds, Six of Clubs, Jack of Diamonds, and Ace of Diamonds are High Card
+Two of Hearts, Four of Hearts, Nine of Hearts, Jack of Diamonds, and Ace of Diamonds are High Card
+Six of Spades, Ten of Diamonds, Jack of Clubs, King of Diamonds, and Ace of Hearts are High Card
+Four of Clubs, Six of Hearts, Ten of Hearts, Jack of Spades, and King of Clubs are High Card
+Two of Diamonds, Five of Clubs, Nine of Clubs, Jack of Clubs, and Jack of Hearts are Pair
+Three of Diamonds, Six of Diamonds, Six of Hearts, Jack of Clubs, and Queen of Hearts are Pair
+Two of Diamonds, Two of Hearts, Six of Hearts, Six of Spades, and Seven of Clubs are Two Pairs
+Four of Clubs, Seven of Diamonds, Eight of Diamonds, Ten of Clubs, and Queen of Clubs are High Card
+Seven of Hearts, Eight of Clubs, Ten of Spades, Ace of Clubs, and Ace of Diamonds are Pair
+Two of Diamonds, Eight of Diamonds, Ten of Hearts, Jack of Hearts, and Ace of Spades are High Card
+Two of Diamonds, Three of Clubs, Six of Spades, Queen of Diamonds, and King of Spades are High Card
+Two of Diamonds, Two of Spades, Three of Hearts, Queen of Clubs, and King of Hearts are Pair
+Three of Clubs, Seven of Diamonds, Jack of Clubs, Ace of Clubs, and Ace of Hearts are Pair
+Three of Clubs, Four of Spades, Five of Spades, Seven of Hearts, and King of Clubs are High Card
+Three of Hearts, Ten of Clubs, Jack of Diamonds, Jack of Hearts, and Jack of Spades are Three of a Kind
+Two of Spades, Three of Diamonds, Jack of Spades, King of Hearts, and Ace of Clubs are High Card
+Three of Hearts, Four of Clubs, Ten of Diamonds, Queen of Hearts, and King of Hearts are High Card
+Two of Hearts, Seven of Hearts, Ten of Diamonds, Jack of Hearts, and Jack of Spades are Pair
+Four of Diamonds, Seven of Clubs, Seven of Diamonds, Eight of Spades, and Ace of Spades are Pair
+Three of Hearts, Four of Spades, Five of Hearts, Ten of Clubs, and Queen of Hearts are High Card
+Two of Spades, Six of Clubs, Six of Spades, Jack of Diamonds, and Queen of Clubs are Pair
+Eight of Diamonds, King of Clubs, King of Diamonds, Ace of Hearts, and Ace of Spades are Two Pairs
+Three of Hearts, Four of Clubs, Six of Clubs, King of Diamonds, and Ace of Diamonds are High Card
+Three of Diamonds, Jack of Clubs, Jack of Hearts, King of Clubs, and King of Diamonds are Two Pairs
+Four of Hearts, Five of Clubs, Five of Hearts, Nine of Hearts, and Jack of Spades are Pair
+Six of Diamonds, Eight of Diamonds, Ten of Clubs, Ten of Diamonds, and Queen of Clubs are Pair
+Two of Clubs, Three of Spades, Four of Hearts, Eight of Diamonds, and King of Diamonds are High Card
+Five of Diamonds, Seven of Spades, Ten of Clubs, Jack of Hearts, and Ace of Hearts are High Card
+Three of Diamonds, Six of Clubs, Six of Spades, Seven of Clubs, and Nine of Spades are Pair
+Eight of Clubs, Ten of Clubs, Jack of Hearts, Queen of Spades, and Ace of Spades are High Card
+Two of Diamonds, Eight of Hearts, Eight of Spades, Jack of Hearts, and King of Spades are Pair
+Three of Diamonds, Six of Diamonds, Nine of Spades, Jack of Hearts, and King of Diamonds are High Card
+Three of Spades, Four of Diamonds, Four of Spades, Eight of Spades, and Queen of Spades are Pair
+Two of Hearts, Four of Spades, Ten of Diamonds, Jack of Hearts, and Queen of Spades are High Card
+Seven of Clubs, Seven of Hearts, Queen of Clubs, King of Clubs, and Ace of Clubs are Pair
+Nine of Spades, Ten of Spades, Jack of Diamonds, Jack of Hearts, and Ace of Spades are Pair
+Three of Clubs, Five of Hearts, Ten of Clubs, Queen of Clubs, and Ace of Spades are High Card
+Three of Hearts, Eight of Clubs, Nine of Diamonds, King of Diamonds, and King of Spades are Pair
+Four of Spades, Nine of Diamonds, Ten of Clubs, Jack of Spades, and Queen of Spades are High Card
+Five of Clubs, Eight of Diamonds, Jack of Clubs, Ace of Clubs, and Ace of Diamonds are Pair
+Two of Clubs, Seven of Hearts, Ten of Clubs, Jack of Hearts, and Jack of Spades are Pair
+Four of Clubs, Six of Diamonds, Six of Hearts, Eight of Clubs, and Jack of Clubs are Pair
+Four of Diamonds, Nine of Clubs, Nine of Hearts, Ten of Hearts, and Queen of Hearts are Pair
+Four of Diamonds, Five of Diamonds, Seven of Hearts, Eight of Clubs, and Nine of Clubs are High Card
+Two of Spades, Four of Diamonds, Queen of Clubs, Queen of Hearts, and Ace of Diamonds are Pair
+Four of Hearts, Five of Diamonds, Five of Hearts, Nine of Spades, and Ten of Hearts are Pair
+Seven of Diamonds, Seven of Hearts, Seven of Spades, Ten of Diamonds, and King of Diamonds are Three of a Kind
+Three of Diamonds, Six of Diamonds, Eight of Hearts, Nine of Clubs, and King of Hearts are High Card
+Six of Hearts, Seven of Spades, Jack of Hearts, Queen of Diamonds, and Queen of Spades are Pair
+Five of Hearts, Nine of Clubs, Nine of Spades, Jack of Hearts, and Queen of Spades are Pair
+Two of Spades, Three of Diamonds, Three of Spades, Nine of Diamonds, and Ace of Diamonds are Pair
+Two of Spades, Three of Clubs, Five of Spades, Queen of Spades, and King of Clubs are High Card
+Eight of Diamonds, Queen of Hearts, King of Clubs, King of Hearts, and Ace of Spades are Pair
+Six of Hearts, Seven of Clubs, King of Hearts, King of Spades, and Ace of Diamonds are Pair
+Two of Spades, Four of Clubs, Eight of Hearts, Eight of Spades, and King of Spades are Pair
+Three of Hearts, Six of Hearts, Eight of Hearts, Eight of Spades, and Ace of Hearts are Pair
+Five of Hearts, Nine of Clubs, Jack of Spades, Queen of Clubs, and King of Hearts are High Card
+Four of Diamonds, Five of Clubs, Nine of Diamonds, Queen of Spades, and Ace of Clubs are High Card
+Five of Hearts, Nine of Clubs, Ten of Clubs, Jack of Spades, and Ace of Hearts are High Card
+Two of Clubs, Seven of Diamonds, Nine of Spades, Ten of Hearts, and King of Hearts are High Card
+Eight of Diamonds, Eight of Spades, Jack of Hearts, King of Clubs, and Ace of Diamonds are Pair
+Three of Spades, Four of Clubs, Five of Spades, Nine of Clubs, and Nine of Hearts are Pair
+Three of Hearts, Seven of Spades, Eight of Clubs, Queen of Clubs, and Ace of Diamonds are High Card
+Five of Spades, Six of Spades, Nine of Spades, Ten of Hearts, and Ace of Spades are High Card
+Two of Clubs, Four of Diamonds, Five of Clubs, Nine of Clubs, and Jack of Diamonds are High Card
+Eight of Spades, Nine of Hearts, Ten of Hearts, Ace of Diamonds, and Ace of Spades are Pair
+Three of Clubs, Three of Diamonds, Seven of Diamonds, Seven of Hearts, and Eight of Hearts are Two Pairs
+Two of Diamonds, Five of Diamonds, Ten of Hearts, King of Diamonds, and King of Hearts are Pair
+Six of Hearts, Seven of Hearts, Queen of Clubs, King of Hearts, and Ace of Spades are High Card
+Two of Diamonds, Six of Spades, Eight of Diamonds, Ten of Clubs, and Ten of Diamonds are Pair
+Two of Diamonds, Five of Hearts, Seven of Hearts, Ten of Hearts, and Queen of Spades are High Card
+Five of Spades, Six of Hearts, Six of Spades, Eight of Spades, and Ten of Clubs are Pair
+Seven of Spades, Ten of Hearts, Ten of Spades, Jack of Hearts, and Jack of Spades are Two Pairs
+Two of Clubs, Four of Clubs, Eight of Spades, Ten of Diamonds, and King of Hearts are High Card
+Two of Clubs, Four of Hearts, Jack of Hearts, Queen of Hearts, and King of Spades are High Card
+Seven of Spades, Nine of Clubs, Ten of Clubs, Jack of Diamonds, and King of Clubs are High Card
+Five of Diamonds, Seven of Spades, Eight of Hearts, Ten of Spades, and King of Hearts are High Card
+Three of Diamonds, Five of Hearts, Ten of Clubs, Jack of Clubs, and Jack of Spades are Pair
+Four of Hearts, Eight of Clubs, Nine of Spades, Ten of Diamonds, and Ten of Hearts are Pair
+Two of Clubs, Five of Hearts, Seven of Diamonds, Nine of Spades, and King of Clubs are High Card
+Five of Hearts, Six of Spades, Seven of Diamonds, Eight of Hearts, and Queen of Diamonds are High Card
+Four of Spades, Six of Diamonds, Eight of Spades, Nine of Diamonds, and Ten of Spades are High Card
+Three of Clubs, Six of Diamonds, Eight of Spades, Ten of Spades, and King of Diamonds are High Card
+Three of Hearts, Three of Spades, Five of Spades, Six of Diamonds, and Six of Hearts are Two Pairs
+Two of Clubs, Four of Hearts, Seven of Clubs, Ten of Spades, and Jack of Hearts are High Card
+Two of Diamonds, Five of Diamonds, Five of Hearts, Five of Spades, and Seven of Hearts are Three of a Kind
+Six of Clubs, Eight of Clubs, Ten of Diamonds, Ten of Spades, and Jack of Hearts are Pair
+Two of Clubs, Two of Diamonds, Three of Diamonds, Eight of Hearts, and Queen of Clubs are Pair
+Three of Hearts, Jack of Diamonds, Queen of Hearts, King of Diamonds, and King of Spades are Pair
+Two of Clubs, Two of Hearts, Seven of Hearts, Eight of Clubs, and King of Spades are Pair
+Six of Diamonds, Seven of Diamonds, Eight of Spades, Jack of Clubs, and Queen of Diamonds are High Card
+Four of Spades, Six of Diamonds, Seven of Diamonds, Nine of Clubs, and Ace of Hearts are High Card
+Three of Diamonds, Five of Clubs, Nine of Hearts, Jack of Diamonds, and Queen of Diamonds are High Card
+Four of Clubs, Seven of Clubs, Jack of Hearts, Jack of Spades, and Queen of Hearts are Pair
+Two of Hearts, Three of Clubs, Four of Diamonds, Six of Spades, and Ten of Clubs are High Card
+Seven of Clubs, Eight of Spades, Ten of Clubs, Jack of Diamonds, and Queen of Spades are High Card
+Two of Clubs, Two of Hearts, Seven of Hearts, Eight of Clubs, and Nine of Diamonds are Pair
+Three of Clubs, Seven of Hearts, Eight of Diamonds, Ten of Clubs, and Jack of Spades are High Card
+Five of Clubs, King of Spades, Ace of Clubs, Ace of Hearts, and Ace of Spades are Three of a Kind
+Two of Diamonds, Four of Clubs, Eight of Spades, King of Clubs, and King of Spades are Pair
+Three of Clubs, Three of Spades, Four of Diamonds, Queen of Clubs, and King of Diamonds are Pair
+Six of Hearts, Seven of Clubs, Seven of Diamonds, Ten of Spades, and Queen of Diamonds are Pair
+Three of Spades, Six of Clubs, Eight of Spades, Jack of Clubs, and Queen of Spades are High Card
+Two of Spades, Four of Diamonds, Six of Hearts, Eight of Clubs, and Jack of Clubs are High Card
+Two of Clubs, Three of Hearts, Ten of Clubs, Ten of Hearts, and Jack of Hearts are Pair
+Four of Spades, Eight of Hearts, Jack of Diamonds, King of Diamonds, and King of Hearts are Pair
+Two of Diamonds, Three of Spades, Four of Clubs, Six of Clubs, and Queen of Clubs are High Card
+Four of Spades, Seven of Hearts, Seven of Spades, Nine of Diamonds, and Ace of Diamonds are Pair
+Two of Clubs, Five of Hearts, Seven of Clubs, Nine of Diamonds, and Queen of Hearts are High Card
+Two of Diamonds, Three of Spades, Four of Clubs, Six of Diamonds, and Jack of Clubs are High Card
+Two of Diamonds, Three of Diamonds, Four of Hearts, Ten of Clubs, and Ace of Hearts are High Card
+Three of Spades, Nine of Spades, Ten of Spades, Queen of Clubs, and King of Clubs are High Card
+Two of Clubs, Two of Hearts, Four of Hearts, Six of Clubs, and King of Diamonds are Pair
+Four of Spades, Five of Clubs, Eight of Clubs, Nine of Clubs, and Ten of Spades are High Card
+Five of Diamonds, Five of Spades, Ten of Diamonds, King of Spades, and Ace of Diamonds are Pair
+Six of Clubs, Eight of Spades, Ten of Clubs, Jack of Diamonds, and King of Diamonds are High Card
+Five of Clubs, Six of Spades, Ten of Clubs, Ten of Hearts, and Ace of Spades are Pair
+Three of Hearts, Five of Spades, Six of Hearts, Ten of Spades, and Ace of Spades are High Card
+Three of Diamonds, Four of Spades, Ten of Diamonds, Jack of Hearts, and King of Spades are High Card
+Two of Diamonds, Two of Hearts, Four of Hearts, Six of Hearts, and Eight of Spades are Pair
+Two of Hearts, Two of Spades, Five of Spades, Seven of Clubs, and Nine of Diamonds are Pair
+Two of Spades, Three of Diamonds, Six of Diamonds, Nine of Clubs, and Jack of Diamonds are High Card
+Two of Hearts, Three of Spades, Five of Hearts, Five of Spades, and King of Clubs are Pair
+Two of Spades, Eight of Spades, Nine of Hearts, Ace of Clubs, and Ace of Diamonds are Pair
+Seven of Spades, Nine of Clubs, Nine of Hearts, Queen of Clubs, and Ace of Spades are Pair
+Ten of Spades, Jack of Diamonds, Jack of Spades, Queen of Clubs, and King of Spades are Pair
+Four of Clubs, Nine of Hearts, Jack of Hearts, Queen of Hearts, and Ace of Diamonds are High Card
+Three of Spades, Four of Clubs, Ten of Diamonds, Jack of Hearts, and King of Diamonds are High Card
+Two of Diamonds, Three of Spades, Four of Hearts, Ten of Spades, and Jack of Hearts are High Card
+Nine of Clubs, Jack of Diamonds, Jack of Hearts, Ace of Clubs, and Ace of Diamonds are Two Pairs
+Two of Spades, Four of Diamonds, Eight of Clubs, Queen of Hearts, and King of Hearts are High Card
+Five of Hearts, Six of Clubs, Eight of Hearts, Ten of Hearts, and Jack of Spades are High Card
+Three of Hearts, Seven of Clubs, Seven of Diamonds, Nine of Hearts, and Ace of Clubs are Pair
+Two of Clubs, Three of Spades, Four of Diamonds, Five of Diamonds, and Jack of Spades are High Card
+Two of Clubs, Six of Spades, Eight of Diamonds, Queen of Spades, and King of Spades are High Card
+Two of Clubs, Two of Diamonds, Jack of Hearts, King of Spades, and Ace of Hearts are Pair
+Two of Diamonds, Three of Spades, Four of Clubs, Seven of Diamonds, and Jack of Diamonds are High Card
+Three of Hearts, Four of Hearts, Five of Diamonds, Nine of Diamonds, and Ten of Clubs are High Card
+Two of Clubs, Two of Spades, Six of Diamonds, Nine of Diamonds, and Jack of Spades are Pair
+Three of Diamonds, Ten of Spades, Jack of Clubs, Queen of Hearts, and King of Spades are High Card
+Three of Clubs, Three of Diamonds, Six of Clubs, Jack of Hearts, and Queen of Hearts are Pair
+Three of Diamonds, Eight of Spades, Nine of Diamonds, King of Spades, and Ace of Hearts are High Card
+Two of Hearts, Four of Clubs, Five of Diamonds, Ten of Spades, and King of Diamonds are High Card
+Four of Spades, Five of Spades, Six of Diamonds, Nine of Clubs, and Ace of Diamonds are High Card
+Three of Hearts, Three of Spades, Jack of Clubs, Jack of Spades, and Ace of Hearts are Two Pairs
+Four of Diamonds, Six of Spades, Queen of Clubs, King of Hearts, and Ace of Spades are High Card
+Three of Spades, Four of Hearts, Seven of Diamonds, Eight of Hearts, and King of Clubs are High Card
+Two of Diamonds, Two of Hearts, Six of Clubs, Six of Hearts, and Ace of Clubs are Two Pairs
+Five of Hearts, Six of Clubs, Seven of Spades, Ten of Clubs, and Ace of Clubs are High Card
+Two of Clubs, Three of Hearts, Five of Diamonds, Queen of Clubs, and Ace of Diamonds are High Card
+Three of Spades, Six of Diamonds, Eight of Diamonds, Ten of Clubs, and King of Diamonds are High Card
+Three of Clubs, Five of Spades, Six of Clubs, Eight of Spades, and Ace of Diamonds are High Card
+Three of Hearts, Nine of Clubs, Nine of Diamonds, Ten of Spades, and Ace of Hearts are Pair
+Two of Hearts, Three of Spades, Nine of Diamonds, Ten of Diamonds, and King of Clubs are High Card
+Two of Hearts, Five of Diamonds, Six of Spades, Ten of Hearts, and Queen of Spades are High Card
+Three of Diamonds, Four of Diamonds, Nine of Clubs, Jack of Spades, and King of Diamonds are High Card
+Six of Diamonds, Six of Spades, Seven of Hearts, Jack of Diamonds, and Jack of Spades are Two Pairs
+Three of Clubs, Five of Diamonds, Seven of Hearts, Ten of Spades, and King of Clubs are High Card
+Two of Diamonds, Seven of Clubs, Ten of Clubs, King of Hearts, and Ace of Clubs are High Card
+Two of Clubs, Two of Spades, Ten of Spades, King of Clubs, and King of Hearts are Two Pairs
+Two of Diamonds, Six of Diamonds, Six of Spades, Nine of Spades, and Ten of Diamonds are Pair
+Five of Spades, Eight of Diamonds, Eight of Spades, Jack of Diamonds, and Jack of Hearts are Two Pairs
+Two of Hearts, Three of Spades, Five of Spades, Nine of Hearts, and King of Clubs are High Card
+Four of Clubs, Five of Spades, Seven of Diamonds, Eight of Diamonds, and Queen of Hearts are High Card
+Four of Clubs, Six of Hearts, Eight of Hearts, Ten of Spades, and King of Spades are High Card
+Two of Clubs, Four of Clubs, Nine of Diamonds, Jack of Clubs, and Queen of Spades are High Card
+Three of Spades, Four of Clubs, Five of Spades, Six of Clubs, and Jack of Hearts are High Card
+Five of Hearts, Six of Clubs, Eight of Hearts, Nine of Hearts, and King of Hearts are High Card
+Two of Hearts, Two of Spades, Six of Diamonds, Eight of Hearts, and Queen of Diamonds are Pair
+Two of Clubs, Five of Clubs, Five of Diamonds, Nine of Spades, and Ten of Spades are Pair
+Eight of Clubs, Nine of Hearts, Queen of Clubs, Queen of Diamonds, and Ace of Clubs are Pair
+Four of Spades, Five of Hearts, Eight of Clubs, King of Hearts, and Ace of Hearts are High Card
+Five of Clubs, Seven of Hearts, Eight of Clubs, Nine of Hearts, and Ten of Clubs are High Card
+Three of Hearts, Five of Clubs, Six of Spades, Seven of Hearts, and Ace of Diamonds are High Card
+Three of Diamonds, Four of Hearts, Five of Diamonds, Jack of Clubs, and Ace of Diamonds are High Card
+Three of Hearts, Five of Clubs, Five of Diamonds, Nine of Hearts, and Jack of Spades are Pair
+Three of Diamonds, Four of Diamonds, Nine of Spades, Ten of Hearts, and King of Hearts are High Card
+Four of Clubs, Seven of Clubs, Nine of Hearts, King of Spades, and Ace of Hearts are High Card
+Two of Clubs, Four of Hearts, Jack of Spades, King of Diamonds, and Ace of Clubs are High Card
+Two of Spades, Three of Clubs, Four of Hearts, Five of Diamonds, and Seven of Clubs are High Card
+Six of Diamonds, Eight of Diamonds, Ten of Spades, Ace of Diamonds, and Ace of Hearts are Pair
+Three of Clubs, Ten of Spades, Jack of Clubs, Ace of Diamonds, and Ace of Spades are Pair
+Two of Diamonds, Three of Clubs, Eight of Diamonds, Queen of Clubs, and Queen of Spades are Pair
+Two of Clubs, Three of Hearts, Four of Hearts, Ten of Hearts, and Ten of Spades are Pair
+Four of Spades, Six of Hearts, Seven of Clubs, Queen of Clubs, and Queen of Hearts are Pair
+Two of Spades, Three of Diamonds, Six of Diamonds, Eight of Clubs, and Ace of Spades are High Card
+Two of Clubs, Six of Spades, Nine of Clubs, Jack of Hearts, and Queen of Clubs are High Card
+Eight of Diamonds, Eight of Spades, Jack of Hearts, King of Hearts, and King of Spades are Two Pairs
+Three of Clubs, Four of Diamonds, Nine of Clubs, Nine of Spades, and Ace of Spades are Pair
+Two of Spades, Four of Hearts, Nine of Clubs, Jack of Clubs, and Ace of Spades are High Card
+Three of Hearts, Six of Spades, Seven of Hearts, Ten of Hearts, and King of Diamonds are High Card
+Three of Hearts, Three of Spades, Nine of Diamonds, Queen of Hearts, and King of Diamonds are Pair
+Two of Spades, Four of Clubs, Six of Hearts, Jack of Clubs, and Queen of Clubs are High Card
+Three of Hearts, Six of Clubs, Ten of Hearts, Queen of Hearts, and Ace of Diamonds are High Card
+Two of Spades, Six of Diamonds, Ten of Spades, Jack of Clubs, and Queen of Clubs are High Card
+Three of Clubs, Eight of Clubs, Eight of Hearts, Jack of Clubs, and King of Diamonds are Pair
+Four of Clubs, Eight of Clubs, Nine of Diamonds, Ten of Hearts, and Queen of Hearts are High Card
+Three of Clubs, Four of Diamonds, Six of Clubs, Nine of Clubs, and Queen of Hearts are High Card
+Three of Clubs, Four of Hearts, Six of Hearts, Seven of Spades, and Ten of Diamonds are High Card
+Seven of Clubs, Nine of Spades, Ten of Clubs, Queen of Hearts, and King of Diamonds are High Card
+Three of Diamonds, Five of Hearts, Five of Spades, Six of Clubs, and Eight of Clubs are Pair
+Two of Hearts, Five of Diamonds, Eight of Clubs, King of Clubs, and Ace of Spades are High Card
+Two of Hearts, Six of Clubs, Six of Diamonds, Nine of Clubs, and King of Clubs are Pair
+Two of Spades, Seven of Spades, Eight of Diamonds, Nine of Clubs, and Queen of Hearts are High Card
+Five of Diamonds, Nine of Diamonds, Ten of Hearts, Jack of Diamonds, and Queen of Diamonds are High Card
+Five of Diamonds, Five of Hearts, Six of Spades, Ten of Spades, and King of Clubs are Pair
+Three of Diamonds, Six of Hearts, Eight of Clubs, Queen of Diamonds, and Ace of Diamonds are High Card
+Two of Spades, Four of Clubs, Five of Clubs, Six of Hearts, and Nine of Diamonds are High Card
+Three of Hearts, Seven of Spades, Eight of Hearts, Nine of Diamonds, and Queen of Hearts are High Card
+Eight of Diamonds, Ten of Spades, Jack of Diamonds, Queen of Diamonds, and King of Clubs are High Card
+Two of Hearts, Four of Diamonds, Five of Spades, Seven of Diamonds, and Ace of Hearts are High Card
+Two of Spades, Four of Hearts, Eight of Hearts, Ace of Clubs, and Ace of Hearts are Pair
+Three of Spades, Four of Spades, Five of Spades, Eight of Hearts, and Ten of Hearts are High Card
+Two of Spades, Three of Hearts, Five of Diamonds, Seven of Diamonds, and Nine of Hearts are High Card
+Three of Hearts, Six of Hearts, Ten of Diamonds, King of Hearts, and King of Spades are Pair
+Two of Spades, Four of Clubs, Ten of Clubs, Jack of Hearts, and Queen of Diamonds are High Card
+Seven of Hearts, Nine of Diamonds, Nine of Hearts, Ten of Hearts, and Ace of Hearts are Pair
+Three of Hearts, Six of Hearts, Eight of Hearts, Eight of Spades, and Ten of Hearts are Pair
+Three of Diamonds, Four of Clubs, Seven of Hearts, Nine of Clubs, and Jack of Clubs are High Card
+Three of Diamonds, Eight of Hearts, Ten of Diamonds, Jack of Spades, and Queen of Clubs are High Card
+Four of Diamonds, Five of Spades, Seven of Clubs, Eight of Diamonds, and Eight of Hearts are Pair
+Three of Hearts, Seven of Spades, Eight of Spades, Ten of Spades, and King of Clubs are High Card
+Three of Hearts, Four of Clubs, Eight of Hearts, Nine of Hearts, and Queen of Spades are High Card
+Two of Clubs, Eight of Diamonds, Jack of Diamonds, Queen of Diamonds, and Ace of Hearts are High Card
+Seven of Diamonds, Jack of Hearts, Jack of Spades, Queen of Clubs, and King of Clubs are Pair
+Four of Diamonds, Five of Hearts, Jack of Spades, Queen of Clubs, and Ace of Hearts are High Card
+Three of Spades, Four of Spades, Seven of Spades, Nine of Hearts, and Jack of Clubs are High Card
+Four of Spades, Six of Spades, Nine of Hearts, King of Hearts, and Ace of Clubs are High Card
+Three of Spades, Four of Diamonds, Four of Spades, Eight of Clubs, and King of Clubs are Pair
+Two of Hearts, Five of Clubs, Five of Spades, Eight of Clubs, and Jack of Spades are Pair
+Two of Hearts, Three of Clubs, Five of Spades, Queen of Diamonds, and Ace of Spades are High Card
+Three of Diamonds, Seven of Clubs, Seven of Diamonds, Eight of Clubs, and Ten of Clubs are Pair
+Four of Hearts, Five of Hearts, Six of Hearts, Jack of Diamonds, and King of Diamonds are High Card
+Five of Spades, Six of Diamonds, Eight of Diamonds, Eight of Hearts, and Ace of Spades are Pair
+Four of Hearts, Six of Hearts, Eight of Hearts, Ten of Clubs, and King of Hearts are High Card
+Six of Clubs, Six of Diamonds, Seven of Hearts, Jack of Hearts, and Queen of Hearts are Pair
+Four of Clubs, Ten of Diamonds, Jack of Clubs, Jack of Diamonds, and Ace of Hearts are Pair
+Two of Diamonds, Two of Spades, Seven of Clubs, Eight of Clubs, and Queen of Diamonds are Pair
+Two of Spades, Six of Hearts, Nine of Hearts, Ten of Diamonds, and Queen of Hearts are High Card
+Two of Diamonds, Five of Diamonds, Five of Hearts, King of Clubs, and King of Spades are Two Pairs
+Two of Hearts, Five of Hearts, Seven of Spades, Ace of Clubs, and Ace of Hearts are Pair
+Ten of Spades, Jack of Hearts, King of Diamonds, King of Hearts, and Ace of Hearts are Pair
+Two of Hearts, Five of Hearts, Five of Spades, Seven of Clubs, and Eight of Clubs are Pair
+Two of Clubs, Five of Diamonds, Six of Spades, Nine of Diamonds, and Ten of Spades are High Card
+Six of Hearts, Seven of Diamonds, Nine of Clubs, Nine of Diamonds, and King of Spades are Pair
+Seven of Hearts, Eight of Clubs, Eight of Diamonds, Ten of Clubs, and Queen of Hearts are Pair
+Two of Hearts, Five of Clubs, Six of Hearts, Nine of Spades, and Jack of Hearts are High Card
+Three of Spades, Four of Clubs, Six of Diamonds, Eight of Diamonds, and Jack of Diamonds are High Card
+Four of Clubs, Four of Diamonds, Eight of Spades, Ace of Clubs, and Ace of Spades are Two Pairs
+Three of Diamonds, Four of Clubs, Jack of Clubs, Queen of Diamonds, and Ace of Spades are High Card
+Two of Clubs, Three of Clubs, Jack of Diamonds, Jack of Spades, and Queen of Clubs are Pair
+Four of Hearts, Six of Clubs, Queen of Spades, Ace of Diamonds, and Ace of Spades are Pair
+Ten of Hearts, Jack of Clubs, Jack of Diamonds, King of Clubs, and Ace of Hearts are Pair
+Five of Diamonds, Six of Hearts, Seven of Clubs, Seven of Spades, and Jack of Hearts are Pair
+Two of Diamonds, Three of Clubs, Five of Clubs, Seven of Hearts, and Queen of Diamonds are High Card
+Two of Hearts, Nine of Diamonds, Ten of Hearts, Ten of Spades, and Queen of Diamonds are Pair
+Three of Clubs, Three of Spades, Five of Clubs, Eight of Diamonds, and Nine of Clubs are Pair
+Two of Spades, Five of Spades, Six of Spades, Nine of Diamonds, and Ace of Hearts are High Card
+Six of Diamonds, Ten of Clubs, Ten of Hearts, Jack of Spades, and King of Hearts are Pair
+Four of Hearts, Jack of Clubs, Jack of Diamonds, King of Hearts, and King of Spades are Two Pairs
+Three of Hearts, Five of Spades, Eight of Hearts, Jack of Diamonds, and Jack of Hearts are Pair
+Three of Hearts, Five of Spades, Seven of Diamonds, Nine of Hearts, and Ace of Spades are High Card
+Four of Diamonds, Seven of Diamonds, Nine of Spades, King of Clubs, and Ace of Spades are High Card
+Five of Diamonds, Five of Hearts, Six of Diamonds, Queen of Hearts, and Queen of Spades are Two Pairs
+Two of Hearts, Three of Clubs, Eight of Clubs, Nine of Spades, and Ace of Spades are High Card
+Two of Hearts, Three of Clubs, Eight of Clubs, Eight of Spades, and Ten of Hearts are Pair
+Five of Diamonds, Seven of Clubs, Seven of Diamonds, Nine of Spades, and Jack of Spades are Pair
+Three of Hearts, Ten of Diamonds, Jack of Diamonds, Queen of Hearts, and King of Clubs are High Card
+Four of Hearts, Four of Spades, Nine of Diamonds, Jack of Hearts, and King of Hearts are Pair
+Four of Diamonds, Six of Hearts, Seven of Clubs, King of Clubs, and Ace of Spades are High Card
+Two of Spades, Four of Clubs, Six of Diamonds, Seven of Spades, and Jack of Clubs are High Card
+Two of Hearts, Four of Spades, Five of Spades, Six of Spades, and Seven of Diamonds are High Card
+Two of Clubs, Three of Diamonds, Three of Spades, Eight of Hearts, and King of Hearts are Pair
+Six of Spades, Eight of Hearts, Ten of Hearts, Jack of Spades, and Queen of Diamonds are High Card
+Six of Hearts, Nine of Diamonds, Jack of Diamonds, Queen of Clubs, and Queen of Hearts are Pair
+Three of Clubs, Seven of Clubs, Eight of Hearts, Nine of Clubs, and Ace of Spades are High Card
+Three of Clubs, Four of Spades, Five of Clubs, Five of Hearts, and Six of Diamonds are Pair
+Four of Spades, Seven of Clubs, Ten of Diamonds, King of Hearts, and Ace of Spades are High Card
+Four of Clubs, Five of Spades, Eight of Clubs, Queen of Diamonds, and King of Clubs are High Card
+Seven of Diamonds, Seven of Hearts, Ten of Hearts, Jack of Clubs, and King of Spades are Pair
+Three of Diamonds, Four of Clubs, Six of Diamonds, Ten of Diamonds, and Ten of Hearts are Pair
+Three of Clubs, Four of Spades, Five of Diamonds, Seven of Clubs, and Ace of Hearts are High Card
+Five of Clubs, Six of Hearts, Seven of Diamonds, Jack of Hearts, and Queen of Hearts are High Card
+Four of Diamonds, Five of Diamonds, Nine of Clubs, Ten of Diamonds, and King of Spades are High Card
+Three of Diamonds, Five of Diamonds, Five of Spades, Six of Diamonds, and Seven of Diamonds are Pair
+Nine of Clubs, Nine of Diamonds, Ten of Clubs, Jack of Hearts, and Queen of Spades are Pair
+Two of Diamonds, Six of Clubs, Six of Diamonds, Ten of Hearts, and Queen of Spades are Pair
+Five of Clubs, Seven of Hearts, Nine of Hearts, Ten of Hearts, and Queen of Spades are High Card
+Four of Hearts, Six of Spades, Eight of Spades, Queen of Spades, and Ace of Clubs are High Card
+Four of Clubs, Five of Clubs, Five of Diamonds, Five of Hearts, and Nine of Clubs are Three of a Kind
+Four of Diamonds, Six of Hearts, Eight of Clubs, Eight of Diamonds, and Jack of Spades are Pair
+Three of Hearts, Eight of Clubs, Eight of Spades, Jack of Diamonds, and Ace of Clubs are Pair
+Five of Hearts, Six of Spades, Seven of Spades, Ten of Hearts, and Jack of Clubs are High Card
+Three of Clubs, Four of Clubs, Seven of Diamonds, Eight of Spades, and Ten of Spades are High Card
+Three of Spades, Four of Spades, Six of Diamonds, Queen of Diamonds, and Queen of Spades are Pair
+Four of Clubs, Eight of Hearts, Nine of Diamonds, Ten of Diamonds, and Jack of Hearts are High Card
+Two of Spades, Six of Spades, Eight of Diamonds, Nine of Clubs, and Jack of Spades are High Card
+Two of Diamonds, Eight of Hearts, Nine of Clubs, Ten of Diamonds, and Queen of Hearts are High Card
+Six of Hearts, Seven of Spades, Eight of Diamonds, Ace of Hearts, and Ace of Spades are Pair
+Three of Diamonds, Four of Hearts, Five of Clubs, Ten of Clubs, and Ten of Hearts are Pair
+Four of Clubs, Six of Clubs, Six of Spades, Jack of Hearts, and Ace of Diamonds are Pair
+Two of Spades, Nine of Spades, Jack of Diamonds, King of Hearts, and Ace of Clubs are High Card
+Three of Hearts, Five of Spades, Seven of Spades, Ten of Spades, and Ace of Clubs are High Card
+Four of Clubs, Five of Hearts, Seven of Hearts, Eight of Spades, and Queen of Diamonds are High Card
+Two of Hearts, Nine of Spades, Jack of Hearts, Queen of Hearts, and Queen of Spades are Pair
+Two of Clubs, Five of Hearts, Seven of Hearts, Nine of Diamonds, and Queen of Spades are High Card
+Five of Hearts, Nine of Hearts, Nine of Spades, Jack of Diamonds, and Queen of Diamonds are Pair
+Six of Spades, Seven of Spades, Eight of Clubs, Eight of Diamonds, and Queen of Spades are Pair
+Two of Spades, Four of Spades, Six of Diamonds, Seven of Clubs, and Jack of Hearts are High Card
+Six of Clubs, Seven of Diamonds, Ten of Clubs, Ten of Hearts, and Ace of Clubs are Pair
+Three of Clubs, Three of Spades, Queen of Clubs, King of Hearts, and King of Spades are Two Pairs
+Seven of Hearts, Eight of Clubs, Ten of Diamonds, Jack of Clubs, and Ace of Diamonds are High Card
+Three of Diamonds, Five of Clubs, Seven of Spades, Eight of Spades, and Jack of Spades are High Card
+Four of Clubs, Seven of Diamonds, Seven of Hearts, Queen of Diamonds, and King of Hearts are Pair
+Five of Clubs, Five of Diamonds, Jack of Diamonds, King of Diamonds, and King of Spades are Two Pairs
+Two of Clubs, Two of Diamonds, Four of Clubs, Four of Spades, and Eight of Spades are Two Pairs
+Three of Spades, Four of Clubs, Six of Clubs, Seven of Diamonds, and Nine of Diamonds are High Card
+Two of Hearts, Five of Spades, Seven of Clubs, Nine of Hearts, and Ten of Hearts are High Card
+Three of Diamonds, Eight of Spades, Nine of Diamonds, Jack of Diamonds, and King of Hearts are High Card
+Two of Clubs, Ten of Clubs, Ten of Spades, Queen of Spades, and King of Clubs are Pair
+Four of Spades, Six of Clubs, Six of Spades, King of Diamonds, and King of Spades are Two Pairs
+Six of Clubs, Seven of Diamonds, Seven of Hearts, Eight of Spades, and Jack of Clubs are Pair
+Five of Hearts, Six of Clubs, Eight of Spades, Ten of Hearts, and Ace of Spades are High Card
+Two of Spades, Three of Hearts, Six of Clubs, Seven of Clubs, and Nine of Hearts are High Card
+Two of Hearts, Two of Spades, Nine of Hearts, Jack of Clubs, and Jack of Spades are Two Pairs
+Two of Clubs, Two of Diamonds, Nine of Hearts, Ten of Diamonds, and King of Diamonds are Pair
+Three of Clubs, Five of Spades, Eight of Spades, Ten of Diamonds, and King of Hearts are High Card
+Six of Hearts, Six of Spades, Nine of Diamonds, Jack of Clubs, and King of Clubs are Pair
+Ten of Hearts, Jack of Clubs, Queen of Clubs, Queen of Spades, and King of Diamonds are Pair
+Two of Hearts, Four of Diamonds, Five of Hearts, Eight of Clubs, and Jack of Hearts are High Card
+Two of Spades, Three of Diamonds, Four of Hearts, Five of Clubs, and Seven of Hearts are High Card
+Two of Clubs, Three of Diamonds, Six of Spades, Seven of Spades, and Nine of Hearts are High Card
+Two of Clubs, Two of Hearts, Three of Hearts, Five of Clubs, and Eight of Spades are Pair
+Three of Clubs, Three of Diamonds, Six of Clubs, Jack of Clubs, and Queen of Spades are Pair
+Four of Diamonds, Five of Clubs, Eight of Spades, Ten of Clubs, and Ace of Clubs are High Card
+Two of Hearts, Seven of Clubs, Seven of Hearts, Seven of Spades, and Ten of Clubs are Three of a Kind
+Two of Diamonds, Six of Diamonds, Queen of Clubs, Queen of Hearts, and King of Spades are Pair
+Two of Clubs, Four of Clubs, Seven of Hearts, Ten of Spades, and King of Clubs are High Card
+Four of Clubs, Four of Spades, Six of Clubs, Queen of Spades, and King of Hearts are Pair
+Four of Hearts, Six of Hearts, Seven of Diamonds, Eight of Hearts, and Queen of Hearts are High Card
+Two of Clubs, Four of Spades, Nine of Hearts, King of Clubs, and Ace of Spades are High Card
+Three of Spades, Seven of Diamonds, Ten of Spades, Queen of Hearts, and Ace of Spades are High Card
+Three of Hearts, Three of Spades, Seven of Diamonds, Ten of Spades, and Queen of Hearts are Pair
+Seven of Hearts, Eight of Hearts, Nine of Diamonds, Jack of Clubs, and Queen of Clubs are High Card
+Two of Diamonds, Four of Spades, Jack of Hearts, King of Clubs, and Ace of Clubs are High Card
+Two of Diamonds, Eight of Clubs, Queen of Clubs, Queen of Spades, and King of Spades are Pair
+Three of Spades, Seven of Diamonds, Eight of Clubs, Nine of Clubs, and Nine of Spades are Pair
+Five of Spades, Queen of Clubs, Queen of Hearts, Queen of Spades, and Ace of Clubs are Three of a Kind
+Three of Spades, Four of Hearts, Four of Spades, King of Spades, and Ace of Spades are Pair
+Three of Hearts, Three of Spades, Queen of Spades, King of Clubs, and King of Spades are Two Pairs
+Two of Hearts, Four of Spades, Ten of Clubs, Ten of Diamonds, and Queen of Spades are Pair
+Three of Spades, Five of Diamonds, Seven of Clubs, Nine of Clubs, and Jack of Diamonds are High Card
+Five of Diamonds, Seven of Hearts, Nine of Diamonds, Ten of Hearts, and Jack of Clubs are High Card
+Two of Hearts, Four of Diamonds, Eight of Hearts, Nine of Diamonds, and Ten of Clubs are High Card
+Three of Spades, Ten of Clubs, Ten of Spades, Queen of Clubs, and Queen of Hearts are Two Pairs
+Four of Diamonds, Five of Spades, Seven of Diamonds, Nine of Diamonds, and Ace of Clubs are High Card
+Five of Clubs, Six of Clubs, Jack of Diamonds, Ace of Clubs, and Ace of Spades are Pair
+Three of Spades, Five of Diamonds, Six of Clubs, Nine of Hearts, and Ten of Spades are High Card
+Three of Hearts, Four of Diamonds, Nine of Clubs, Nine of Hearts, and Jack of Diamonds are Pair
+Two of Hearts, Three of Spades, Five of Spades, Nine of Hearts, and Ten of Clubs are High Card
+Four of Spades, Seven of Diamonds, Seven of Hearts, Seven of Spades, and Ten of Hearts are Three of a Kind
+Three of Hearts, Eight of Hearts, Ten of Spades, King of Hearts, and Ace of Diamonds are High Card
+Three of Hearts, Eight of Spades, Ten of Diamonds, Queen of Diamonds, and King of Diamonds are High Card
+Three of Hearts, Seven of Diamonds, Nine of Hearts, Ten of Clubs, and King of Clubs are High Card
+Two of Clubs, Four of Hearts, Five of Diamonds, Six of Spades, and Nine of Spades are High Card
+Two of Hearts, Four of Spades, Nine of Hearts, Jack of Hearts, and King of Spades are High Card
+Four of Clubs, Four of Spades, Five of Clubs, Six of Diamonds, and Ten of Spades are Pair
+Three of Spades, Eight of Clubs, Ten of Clubs, Jack of Clubs, and Jack of Diamonds are Pair
+Five of Diamonds, Eight of Clubs, Jack of Clubs, Ace of Diamonds, and Ace of Hearts are Pair
+Two of Hearts, Three of Clubs, Three of Diamonds, Four of Clubs, and Five of Diamonds are Pair
+Three of Spades, Eight of Hearts, Nine of Hearts, Jack of Clubs, and Queen of Spades are High Card
+Three of Hearts, Four of Clubs, Six of Spades, King of Clubs, and Ace of Diamonds are High Card
+Three of Diamonds, Four of Diamonds, Nine of Diamonds, Ten of Clubs, and King of Hearts are High Card
+Nine of Clubs, Jack of Diamonds, Queen of Hearts, King of Hearts, and Ace of Spades are High Card
+Four of Hearts, Five of Diamonds, Seven of Clubs, Nine of Hearts, and Ace of Hearts are High Card
+Two of Clubs, Five of Diamonds, Six of Hearts, Nine of Diamonds, and King of Hearts are High Card
+Two of Clubs, Three of Clubs, Seven of Diamonds, Eight of Clubs, and Ace of Diamonds are High Card
+Two of Spades, Four of Clubs, Six of Hearts, Ten of Spades, and King of Spades are High Card
+Two of Spades, Four of Hearts, Queen of Diamonds, King of Clubs, and King of Spades are Pair
+Two of Diamonds, Three of Hearts, Eight of Diamonds, Ten of Diamonds, and Ten of Spades are Pair
+Ten of Clubs, Ten of Spades, Queen of Hearts, Queen of Spades, and King of Clubs are Two Pairs
+Five of Hearts, Nine of Hearts, Jack of Clubs, King of Diamonds, and Ace of Hearts are High Card
+Four of Clubs, Five of Diamonds, Five of Spades, Seven of Spades, and Ace of Diamonds are Pair
+Two of Spades, Five of Hearts, Jack of Clubs, Queen of Clubs, and Queen of Hearts are Pair
+Five of Diamonds, Six of Spades, Seven of Clubs, Jack of Hearts, and Queen of Hearts are High Card
+Two of Clubs, Four of Clubs, Four of Diamonds, Four of Hearts, and Nine of Diamonds are Three of a Kind
+Two of Clubs, Three of Spades, Four of Spades, Ten of Spades, and Queen of Spades are High Card
+Three of Hearts, Five of Diamonds, Seven of Clubs, Nine of Spades, and Ace of Spades are High Card
+Two of Hearts, Four of Diamonds, Six of Clubs, Eight of Hearts, and Ten of Spades are High Card
+Three of Clubs, Four of Spades, Queen of Hearts, Ace of Hearts, and Ace of Spades are Pair
+Three of Clubs, Ten of Hearts, King of Diamonds, King of Spades, and Ace of Spades are Pair
+Three of Diamonds, Three of Spades, Four of Hearts, Queen of Clubs, and Queen of Hearts are Two Pairs
+Five of Diamonds, Ten of Diamonds, Ten of Spades, King of Clubs, and King of Diamonds are Two Pairs
+Two of Hearts, Six of Diamonds, Seven of Clubs, Seven of Diamonds, and Seven of Spades are Three of a Kind
+Four of Diamonds, Eight of Clubs, Eight of Diamonds, Eight of Spades, and Ace of Hearts are Three of a Kind
+Three of Diamonds, Three of Hearts, Three of Spades, Nine of Clubs, and Queen of Hearts are Three of a Kind
+Two of Spades, Three of Clubs, Four of Diamonds, Five of Hearts, and Six of Spades are Straight
+Two of Diamonds, Three of Clubs, Four of Spades, Five of Diamonds, and Ace of Hearts are Straight
+Eight of Clubs, Nine of Spades, Ten of Clubs, Jack of Clubs, and Queen of Clubs are Straight
+Ten of Hearts, Jack of Spades, Queen of Hearts, King of Diamonds, and Ace of Hearts are Straight
+Three of Spades, Six of Spades, Eight of Spades, Ten of Spades, and Queen of Spades are Flush
+Four of Diamonds, Five of Diamonds, Jack of Diamonds, King of Diamonds, and Ace of Diamonds are Flush
+Three of Clubs, Three of Diamonds, Three of Spades, Queen of Hearts, and Queen of Spades are Full house
+Four of Clubs, Four of Hearts, King of Diamonds, King of Hearts, and King of Spades are Full house
+Three of Clubs, Ace of Clubs, Ace of Diamonds, Ace of Hearts, and Ace of Spades are Four of a Kind
+Jack of Clubs, Jack of Diamonds, Jack of Hearts, Jack of Spades, and Queen of Diamonds are Four of a Kind
+Five of Hearts, Six of Hearts, Seven of Hearts, Eight of Hearts, and Nine of Hearts are Straight Flush
+Nine of Clubs, Ten of Clubs, Jack of Clubs, Queen of Clubs, and King of Clubs are Straight Flush
+Ten of Spades, Jack of Spades, Queen of Spades, King of Spades, and Ace of Spades are Royal Flush
+Ten of Diamonds, Jack of Diamonds, Queen of Diamonds, King of Diamonds, and Ace of Diamonds are Royal Flush

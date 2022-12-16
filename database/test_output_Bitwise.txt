@@ -1,0 +1,500 @@
+380 is a multiple of 2
+108 is a multiple of 1
+26962 is not a multiple of 262144
+3856 is a multiple of 16
+466 is a multiple of 2
+339968 is a multiple of 2048
+32391 is not a multiple of 128
+153 is not a multiple of 16
+17421 is not a multiple of 4096
+19895 is not a multiple of 65536
+14771 is not a multiple of 128
+52428800 is a multiple of 262144
+17792 is a multiple of 128
+49152 is a multiple of 16384
+36 is a multiple of 4
+496 is a multiple of 16
+25547 is not a multiple of 8192
+32757 is not a multiple of 16
+2490368 is a multiple of 131072
+20 is a multiple of 2
+11403264 is a multiple of 65536
+30106 is not a multiple of 4
+19264 is a multiple of 1
+23805 is not a multiple of 256
+51200 is a multiple of 1024
+31101 is not a multiple of 1024
+19629 is not a multiple of 8192
+19954 is not a multiple of 8
+4966 is not a multiple of 65536
+12845056 is a multiple of 65536
+800 is a multiple of 16
+272 is a multiple of 8
+22929 is not a multiple of 262144
+278 is a multiple of 2
+22704 is not a multiple of 524288
+2048 is a multiple of 1024
+5021 is not a multiple of 8192
+19072 is a multiple of 32
+156672 is a multiple of 1024
+1048576 is a multiple of 8192
+9161 is not a multiple of 64
+12517376 is a multiple of 65536
+4031 is not a multiple of 32768
+1150 is not a multiple of 4096
+13966 is a multiple of 2
+244736 is a multiple of 1024
+12416 is a multiple of 128
+18304 is a multiple of 128
+6688 is a multiple of 32
+40894464 is a multiple of 262144
+27506 is not a multiple of 4
+245760 is a multiple of 1024
+74 is a multiple of 1
+6359 is not a multiple of 32768
+704 is a multiple of 16
+1608 is a multiple of 8
+10291 is not a multiple of 4
+11020 is not a multiple of 65536
+13893632 is a multiple of 65536
+24484 is not a multiple of 524288
+53 is not a multiple of 2
+27938 is not a multiple of 524288
+18127 is a multiple of 1
+14893 is not a multiple of 128
+36608 is a multiple of 256
+6617 is not a multiple of 2
+14309 is not a multiple of 8192
+2818048 is a multiple of 65536
+135 is a multiple of 1
+30303 is not a multiple of 65536
+5844 is not a multiple of 16
+97280 is a multiple of 512
+688128 is a multiple of 32768
+408 is a multiple of 8
+393216 is a multiple of 16384
+6618 is a multiple of 1
+14798 is a multiple of 1
+124 is a multiple of 2
+126976 is a multiple of 512
+12292 is a multiple of 4
+3670016 is a multiple of 262144
+6191 is not a multiple of 131072
+19156 is not a multiple of 32768
+2634 is not a multiple of 2048
+425984 is a multiple of 4096
+4886 is not a multiple of 64
+5668864 is a multiple of 32768
+1416 is a multiple of 4
+10322 is a multiple of 2
+137216 is a multiple of 2048
+27892 is not a multiple of 131072
+110592 is a multiple of 512
+21003 is a multiple of 1
+49152 is a multiple of 512
+302 is a multiple of 2
+10585 is not a multiple of 8
+832 is a multiple of 4
+13120 is a multiple of 64
+4169 is not a multiple of 4096
+606208 is a multiple of 16384
+4194304 is a multiple of 65536
+241664 is a multiple of 4096
+278528 is a multiple of 16384
+573440 is a multiple of 4096
+2883584 is a multiple of 262144
+1120 is a multiple of 8
+2688 is a multiple of 128
+12949 is not a multiple of 131072
+1843200 is a multiple of 8192
+16105 is not a multiple of 65536
+12455 is not a multiple of 256
+11701 is not a multiple of 16384
+10092544 is a multiple of 65536
+280 is a multiple of 8
+4608 is a multiple of 32
+20945 is not a multiple of 256
+28321 is not a multiple of 8192
+27982 is not a multiple of 262144
+23196 is a multiple of 2
+452 is a multiple of 4
+11173 is not a multiple of 32768
+21659 is not a multiple of 64
+413696 is a multiple of 4096
+29510 is not a multiple of 16
+4160 is a multiple of 32
+28022 is not a multiple of 8192
+18787 is not a multiple of 256
+7391 is not a multiple of 32
+436 is a multiple of 4
+25824 is not a multiple of 16384
+24372 is not a multiple of 16384
+87031808 is a multiple of 524288
+12032 is a multiple of 128
+1835008 is a multiple of 131072
+17192 is a multiple of 8
+8480 is a multiple of 32
+1589248 is a multiple of 8192
+34078720 is a multiple of 524288
+11023 is not a multiple of 8
+413696 is a multiple of 4096
+17505 is not a multiple of 8
+1892352 is a multiple of 8192
+17222 is not a multiple of 4096
+7900 is not a multiple of 64
+22413 is not a multiple of 128
+29170 is not a multiple of 16384
+8355840 is a multiple of 32768
+4667 is a multiple of 1
+140 is not a multiple of 32
+1966080 is a multiple of 16384
+109051904 is a multiple of 524288
+26302 is not a multiple of 16384
+4678 is not a multiple of 2048
+1146880 is a multiple of 8192
+21119 is not a multiple of 262144
+18087 is not a multiple of 4096
+9010 is a multiple of 1
+20315 is not a multiple of 131072
+720896 is a multiple of 65536
+5109 is not a multiple of 262144
+29565 is not a multiple of 4
+17664 is a multiple of 128
+8096 is a multiple of 32
+26624 is a multiple of 256
+123 is not a multiple of 4
+13434880 is a multiple of 65536
+7864320 is a multiple of 32768
+8116 is a multiple of 1
+29011 is not a multiple of 1024
+415744 is a multiple of 2048
+29790 is not a multiple of 8192
+21763 is not a multiple of 16
+230 is a multiple of 1
+17713 is not a multiple of 512
+8365 is not a multiple of 262144
+22528 is a multiple of 128
+66846720 is a multiple of 262144
+20 is a multiple of 1
+21113 is not a multiple of 131072
+8448 is a multiple of 128
+12993 is a multiple of 1
+2240 is a multiple of 16
+12835 is not a multiple of 2048
+29350 is not a multiple of 65536
+608 is a multiple of 8
+9357 is not a multiple of 65536
+9792 is a multiple of 64
+362496 is a multiple of 2048
+29617 is not a multiple of 65536
+32768 is a multiple of 4096
+3296 is a multiple of 32
+109056 is a multiple of 512
+22296 is not a multiple of 524288
+2162688 is a multiple of 32768
+6654 is not a multiple of 16
+135168 is a multiple of 4096
+192512 is a multiple of 4096
+920 is a multiple of 8
+4675 is not a multiple of 128
+33030144 is a multiple of 262144
+3489792 is a multiple of 16384
+5275648 is a multiple of 32768
+1626 is a multiple of 2
+638976 is a multiple of 16384
+22279 is not a multiple of 1024
+380 is a multiple of 2
+5556 is not a multiple of 131072
+25705 is not a multiple of 8192
+15881 is not a multiple of 4
+1 is a multiple of 1
+2818048 is a multiple of 32768
+628 is a multiple of 4
+1752 is not a multiple of 16
+12673 is not a multiple of 8
+107 is a multiple of 1
+610 is not a multiple of 4096
+28112 is not a multiple of 131072
+753664 is a multiple of 32768
+28685 is a multiple of 1
+29696 is a multiple of 1024
+156672 is a multiple of 1024
+1900544 is a multiple of 16384
+335 is not a multiple of 16
+7605 is not a multiple of 524288
+1392 is a multiple of 16
+65536 is a multiple of 512
+577536 is a multiple of 4096
+9109504 is a multiple of 65536
+2176 is a multiple of 128
+246 is a multiple of 1
+494 is a multiple of 2
+1472 is a multiple of 8
+1536 is a multiple of 16
+26428 is not a multiple of 524288
+10075 is not a multiple of 128
+24970 is not a multiple of 64
+11776 is a multiple of 128
+1080 is a multiple of 8
+3200 is a multiple of 64
+131072 is a multiple of 2048
+7619 is not a multiple of 16
+393216 is a multiple of 8192
+750 is not a multiple of 262144
+96 is a multiple of 32
+21098 is not a multiple of 8
+13648 is not a multiple of 128
+22913 is not a multiple of 2048
+1310720 is a multiple of 32768
+1769 is not a multiple of 64
+644 is a multiple of 4
+2865 is not a multiple of 512
+164 is a multiple of 1
+9601 is not a multiple of 262144
+24472 is a multiple of 8
+630784 is a multiple of 4096
+1656 is a multiple of 8
+640 is a multiple of 8
+96768 is a multiple of 512
+768 is a multiple of 256
+23808 is a multiple of 256
+94720 is a multiple of 512
+11342 is a multiple of 2
+21221 is not a multiple of 256
+20888 is not a multiple of 262144
+7949 is not a multiple of 64
+25620 is not a multiple of 8
+47104 is a multiple of 256
+1808 is a multiple of 8
+9853 is not a multiple of 32
+15748 is not a multiple of 512
+8 is a multiple of 8
+14955 is not a multiple of 64
+25411 is not a multiple of 262144
+800 is a multiple of 32
+18584 is not a multiple of 512
+23342 is not a multiple of 32768
+458752 is a multiple of 32768
+25072 is not a multiple of 65536
+26173 is not a multiple of 64
+6705 is not a multiple of 512
+19375 is not a multiple of 64
+1343488 is a multiple of 8192
+6160384 is a multiple of 65536
+6652 is not a multiple of 16384
+20482 is not a multiple of 65536
+3506176 is a multiple of 32768
+33792 is a multiple of 1024
+184320 is a multiple of 2048
+5662 is not a multiple of 1024
+1851392 is a multiple of 16384
+14008 is not a multiple of 65536
+312 is a multiple of 4
+26303 is not a multiple of 8
+11124 is not a multiple of 65536
+30015488 is a multiple of 131072
+21080 is not a multiple of 256
+24050 is not a multiple of 262144
+5242880 is a multiple of 32768
+29643 is not a multiple of 8
+3561 is not a multiple of 512
+1282 is not a multiple of 512
+2220 is not a multiple of 8192
+988 is a multiple of 4
+20259 is not a multiple of 512
+41728 is a multiple of 256
+424 is a multiple of 8
+32685 is not a multiple of 16
+5589 is not a multiple of 8192
+19037 is not a multiple of 4
+92160 is a multiple of 1024
+30464 is a multiple of 256
+1482752 is a multiple of 8192
+7602176 is a multiple of 131072
+152 is a multiple of 1
+30801920 is a multiple of 131072
+3039 is not a multiple of 32768
+28082 is not a multiple of 4096
+3768320 is a multiple of 16384
+8380 is not a multiple of 16
+4620288 is a multiple of 32768
+7012352 is a multiple of 32768
+5242880 is a multiple of 262144
+29956 is not a multiple of 131072
+12288 is a multiple of 512
+1723 is not a multiple of 2
+25184 is a multiple of 8
+5071 is not a multiple of 262144
+1071 is not a multiple of 32
+335872 is a multiple of 8192
+20825 is not a multiple of 32768
+15335424 is a multiple of 65536
+22282240 is a multiple of 262144
+10116 is not a multiple of 64
+126976 is a multiple of 512
+29421 is not a multiple of 524288
+6816 is a multiple of 32
+28666 is not a multiple of 65536
+32256 is a multiple of 128
+6021 is a multiple of 1
+704 is a multiple of 4
+121856 is a multiple of 512
+23941 is not a multiple of 8192
+28423 is not a multiple of 32
+12268 is not a multiple of 2048
+31907 is not a multiple of 262144
+31232 is a multiple of 128
+24114 is not a multiple of 65536
+23556 is not a multiple of 512
+45056 is a multiple of 1024
+25345 is not a multiple of 4096
+7491 is not a multiple of 256
+663552 is a multiple of 4096
+24722 is not a multiple of 524288
+448 is a multiple of 16
+31744 is a multiple of 512
+10866 is not a multiple of 8
+28486 is not a multiple of 524288
+26633 is not a multiple of 65536
+1146 is not a multiple of 262144
+348160 is a multiple of 4096
+6602 is not a multiple of 128
+27830 is not a multiple of 128
+7278 is not a multiple of 4096
+20448 is not a multiple of 524288
+28315 is not a multiple of 4
+9567 is not a multiple of 32768
+12189696 is a multiple of 65536
+13851 is not a multiple of 131072
+4449 is not a multiple of 65536
+229 is not a multiple of 32
+29560 is a multiple of 1
+1655 is not a multiple of 128
+22361 is not a multiple of 32768
+23146 is not a multiple of 16384
+21188 is not a multiple of 16384
+27663 is not a multiple of 512
+32768 is a multiple of 32768
+1572864 is a multiple of 32768
+905 is not a multiple of 16384
+544 is a multiple of 16
+12549 is not a multiple of 2
+31923 is not a multiple of 512
+144384 is a multiple of 1024
+212992 is a multiple of 1024
+12393 is not a multiple of 131072
+28164 is not a multiple of 65536
+391168 is a multiple of 2048
+640 is a multiple of 32
+32505856 is a multiple of 131072
+30568 is not a multiple of 1024
+384 is a multiple of 2
+8194 is not a multiple of 8192
+28396 is not a multiple of 65536
+196608 is a multiple of 4096
+2867200 is a multiple of 16384
+133120 is a multiple of 2048
+115867648 is a multiple of 524288
+31450 is not a multiple of 32
+1835008 is a multiple of 32768
+12928 is a multiple of 64
+19695 is not a multiple of 512
+860160 is a multiple of 8192
+27358 is not a multiple of 4096
+19426 is not a multiple of 2048
+30774 is not a multiple of 1024
+23552 is not a multiple of 524288
+540 is a multiple of 4
+1364 is not a multiple of 16
+432 is a multiple of 4
+26821 is not a multiple of 16384
+292 is a multiple of 4
+124416 is a multiple of 512
+16343 is not a multiple of 16384
+3997696 is a multiple of 16384
+475136 is a multiple of 4096
+5967 is not a multiple of 4096
+29696 is a multiple of 256
+528 is a multiple of 8
+4319 is not a multiple of 16
+47710208 is a multiple of 262144
+11367 is not a multiple of 64
+475136 is a multiple of 4096
+3447 is not a multiple of 65536
+220 is a multiple of 2
+28583 is not a multiple of 2048
+15872 is a multiple of 256
+9220 is not a multiple of 262144
+23856 is not a multiple of 2048
+233472 is a multiple of 1024
+6208 is a multiple of 64
+15677 is not a multiple of 8
+21991 is not a multiple of 256
+12320768 is a multiple of 65536
+15871 is not a multiple of 128
+18703 is not a multiple of 131072
+5545 is not a multiple of 128
+7680 is a multiple of 256
+8519680 is a multiple of 131072
+25128 is a multiple of 2
+28149 is not a multiple of 2048
+15869 is not a multiple of 4096
+86 is a multiple of 2
+1654784 is a multiple of 8192
+22830 is not a multiple of 4096
+5177 is not a multiple of 2
+702 is not a multiple of 131072
+3296 is a multiple of 16
+696 is a multiple of 8
+105381888 is a multiple of 524288
+31310 is not a multiple of 128
+7926 is not a multiple of 4
+32528 is not a multiple of 128
+7213 is not a multiple of 2048
+38 is a multiple of 1
+4472 is a multiple of 4
+5841 is not a multiple of 256
+4980736 is a multiple of 262144
+1881 is not a multiple of 32
+28614 is not a multiple of 131072
+2661 is not a multiple of 262144
+20807 is not a multiple of 8
+61603840 is a multiple of 262144
+5184 is a multiple of 32
+10752 is a multiple of 64
+8928 is not a multiple of 1024
+131072 is a multiple of 4096
+6272 is a multiple of 64
+69206016 is a multiple of 524288
+29352 is a multiple of 4
+21794 is not a multiple of 512
+11647 is not a multiple of 256
+163840 is a multiple of 4096
+3248 is a multiple of 16
+111104 is a multiple of 512
+19812 is not a multiple of 512
+35584 is a multiple of 256
+3194880 is a multiple of 16384
+9990 is a multiple of 1
+15204352 is a multiple of 131072
+8388608 is a multiple of 262144
+131 is a multiple of 1
+5184 is a multiple of 32
+376832 is a multiple of 4096
+15834 is not a multiple of 2048
+225 is a multiple of 1
+18805 is not a multiple of 512
+13210 is not a multiple of 2048
+26979 is not a multiple of 512
+149504 is a multiple of 2048
+21497 is not a multiple of 8192
+19790 is not a multiple of 64
+11159 is not a multiple of 4
+41680896 is a multiple of 262144
+9072 is not a multiple of 512
+27967 is a multiple of 1
+18176 is a multiple of 256
+118784 is a multiple of 1024
+12611 is not a multiple of 16384
+25165824 is a multiple of 524288
+44032 is a multiple of 1024

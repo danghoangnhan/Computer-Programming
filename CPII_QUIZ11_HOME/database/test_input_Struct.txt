@@ -1,0 +1,500 @@
+Benedict,Bryant,Scarlet,22,Female,Oxford,Mathematics
+Elizabeth,Buss,Bishop,19,Female,Stanford,Psychology
+Benedict,Bryant,Princess,23,Female,UC Berkley,Biology
+Alice,Evan,Mamba,34,Male,Yale,Mechanical Engineering
+Michael,Bryant,Spider,32,Female,Fu Jen Cathlic,Electrical Engineering
+Cris,Bryant,Scarlet,33,Male,Northwestern,Psychology
+Tom,Stockton,Mamba,36,Female,Princton,Electrical Engineering
+Lebron,Bryant,Bishop,20,Female,Yale,Psychology
+Jane,Stockton,Scarlet,37,Male,Northwestern,Mathematics
+Jack,Olsen,Iron Man,19,Male,Oxford,Computer Science
+Michael,Stockton,The Rock,31,Male,Hardvard,Mathematics
+Judy,Stockton,Queen,28,Female,UC Berkley,Chemistry
+Lebron,Ann,Iron Man,34,Female,Oxford,Computer Science
+Robert,Evan,Pawn,35,Male,Hardvard,Chemistry
+John,Jordan,Mamba,37,Female,Fu Jen Cathlic,Computer Science
+Tom,Stockton,Knight,20,Male,Carnegie Mellon,Physics
+Alice,Jackson,Captain,28,Female,Yale,Physics
+Mary,Buss,Captain,25,Male,Northwestern,Biology
+Robert,Buss,Knight,18,Male,Columbia,Electrical Engineering
+Alice,Buss,Princess,29,Female,Princton,Physics
+John,Bryant,Mamba,28,Female,Carnegie Mellon,Physics
+Elizabeth,Jordan,Mamba,23,Male,Hardvard,Mathematics
+Judy,Ann,Captain,18,Male,Northwestern,Chemistry
+Robert,Olsen,Spider,38,Female,Princton,Physics
+Jack,Evan,Iron Man,34,Male,Oxford,Mechanical Engineering
+Jim,Olsen,Prince,21,Male,Stanford,Mathematics
+Jim,Levy,Mamba,34,Male,Cornell,Biology
+Jane,Ann,Pawn,33,Female,Northwestern,Electrical Engineering
+Michael,Jordan,Pawn,33,Female,Cornell,Biology
+Jerry,Ann,Bishop,23,Male,Columbia,Biology
+Mary,Jackson,Prince,36,Female,Hardvard,Psychology
+Jim,Stockton,Mamba,20,Female,Columbia,Biology
+Cris,Olsen,Mamba,35,Male,Cornell,Mathematics
+John,Jordan,Queen,36,Female,UC Berkley,Mathematics
+Tom,Jackson,Queen,24,Male,Carnegie Mellon,Mathematics
+Kobe,Downey,Pawn,38,Female,Hardvard,Chemistry
+Mary,Downey,Mamba,32,Male,Hardvard,Psychology
+John,Holland,Rook,34,Male,Carnegie Mellon,Mathematics
+Jack,Downey,Iron Man,36,Female,UC Berkley,Mechanical Engineering
+Jim,Bryant,Spider,19,Male,Cambridge,Electrical Engineering
+Jim,Olsen,God,32,Female,Princton,Chemistry
+Benedict,Evan,Princess,35,Male,Yale,Electrical Engineering
+Cris,Ann,Bishop,33,Female,Carnegie Mellon,Computer Science
+John,Jackson,Rook,30,Female,Hardvard,Electrical Engineering
+John,Ann,Princess,23,Male,Yale,Psychology
+Robert,Levy,Iron Man,30,Female,Stanford,Electrical Engineering
+Tom,Holland,Pawn,29,Female,Oxford,Mathematics
+Benedict,Ann,King,30,Male,Fu Jen Cathlic,Electrical Engineering
+Lebron,Levy,Knight,22,Female,Princton,Physics
+Jim,Olsen,Queen,33,Female,Carnegie Mellon,Mechanical Engineering
+John,Buss,God,32,Female,Oxford,Mechanical Engineering
+Elizabeth,Holland,Iron Man,33,Male,Stanford,Chemistry
+Alice,Bryant,Rook,30,Female,Cornell,Chemistry
+Michael,Jordan,Prince,25,Female,Columbia,Mathematics
+Cris,Evan,King,33,Male,Northwestern,Chemistry
+Benedict,Jordan,Scarlet,40,Male,Fu Jen Cathlic,Chemistry
+Lebron,Bryant,Pawn,28,Female,Stanford,Mathematics
+John,Holland,The Rock,33,Male,Cornell,Physics
+Elizabeth,Ann,Queen,32,Male,Princton,Biology
+John,Levy,Scarlet,24,Male,Carnegie Mellon,Electrical Engineering
+Jerry,Olsen,Captain,34,Female,Northwestern,Mechanical Engineering
+Elizabeth,Evan,Knight,18,Male,Northwestern,Computer Science
+Judy,Evan,The Rock,24,Female,Carnegie Mellon,Biology
+Mary,Ann,Spider,35,Male,Cornell,Mathematics
+Robert,Olsen,Bishop,27,Male,Columbia,Chemistry
+Elizabeth,Levy,Knight,27,Female,Princton,Mechanical Engineering
+Tom,Olsen,Bishop,32,Male,Cambridge,Mechanical Engineering
+Michael,Buss,Spider,34,Female,UC Berkley,Psychology
+Jerry,James,Prince,21,Male,Columbia,Electrical Engineering
+Kobe,Stockton,Bishop,21,Female,Stanford,Computer Science
+Kobe,Ann,Spider,30,Female,Cornell,Physics
+Judy,Levy,The Rock,40,Male,Columbia,Mechanical Engineering
+Michael,Buss,Iron Man,38,Female,Northwestern,Physics
+Mary,James,Bishop,30,Female,Cornell,Psychology
+Michael,Jordan,Captain,21,Male,Columbia,Electrical Engineering
+Kobe,Jordan,Captain,40,Female,Northwestern,Computer Science
+Judy,Ann,Rook,20,Female,Princton,Physics
+Jack,Olsen,Mamba,39,Male,Stanford,Mechanical Engineering
+Robert,Olsen,Princess,36,Male,Columbia,Biology
+Jim,Olsen,Knight,34,Female,Fu Jen Cathlic,Electrical Engineering
+Benedict,Downey,Scarlet,31,Male,Hardvard,Physics
+Mary,Stockton,God,34,Female,Cambridge,Physics
+Jim,Jordan,Scarlet,26,Male,Northwestern,Electrical Engineering
+Jack,Ann,Scarlet,25,Male,Stanford,Physics
+Lebron,Bryant,Rook,40,Female,Princton,Psychology
+Mary,Levy,Queen,33,Male,Fu Jen Cathlic,Biology
+Jim,Downey,Prince,18,Female,Hardvard,Chemistry
+Elizabeth,Holland,Pawn,40,Male,Princton,Electrical Engineering
+John,Evan,Spider,33,Male,Stanford,Computer Science
+Benedict,Evan,Mamba,29,Male,Stanford,Physics
+Kobe,Downey,Spider,26,Female,Stanford,Computer Science
+Michael,Olsen,Queen,24,Female,Cornell,Physics
+Jerry,Ann,Queen,30,Female,Oxford,Computer Science
+Robert,Jordan,Knight,25,Male,Carnegie Mellon,Chemistry
+Benedict,Stockton,Princess,29,Female,Fu Jen Cathlic,Psychology
+Lebron,Olsen,Queen,31,Female,Cornell,Electrical Engineering
+Mary,Holland,Mamba,29,Female,Oxford,Mechanical Engineering
+Judy,Jordan,God,26,Female,Northwestern,Electrical Engineering
+John,Jackson,Mamba,28,Female,Carnegie Mellon,Biology
+Jerry,Jordan,King,36,Female,Oxford,Biology
+Elizabeth,Jackson,King,31,Female,Fu Jen Cathlic,Chemistry
+Tom,Bryant,Rook,31,Female,Carnegie Mellon,Biology
+Tom,Bryant,Princess,40,Female,UC Berkley,Mechanical Engineering
+Michael,Bryant,Mamba,19,Male,Fu Jen Cathlic,Computer Science
+Elizabeth,Jordan,Princess,39,Female,Columbia,Chemistry
+Kobe,Olsen,Pawn,22,Male,Carnegie Mellon,Psychology
+Benedict,Ann,Knight,20,Female,Columbia,Biology
+John,Jordan,Bishop,31,Male,Stanford,Mechanical Engineering
+Elizabeth,James,Iron Man,28,Male,Oxford,Computer Science
+Kobe,Buss,Mamba,19,Female,Northwestern,Biology
+Mary,Jordan,The Rock,40,Male,Cambridge,Psychology
+Cris,Downey,King,25,Female,Yale,Physics
+Lebron,Evan,Queen,39,Female,Fu Jen Cathlic,Chemistry
+Cris,Buss,Captain,32,Female,Columbia,Mechanical Engineering
+Alice,Levy,God,32,Female,Fu Jen Cathlic,Physics
+Elizabeth,Holland,Prince,18,Male,Cambridge,Biology
+John,Buss,Prince,23,Male,Hardvard,Psychology
+John,Downey,Knight,27,Male,Cornell,Psychology
+Alice,Evan,The Rock,37,Male,Cornell,Mechanical Engineering
+Mary,Evan,Knight,40,Female,Oxford,Physics
+Jack,Jackson,Princess,27,Female,Oxford,Computer Science
+Jim,Buss,Prince,40,Male,Cornell,Mathematics
+Jack,Bryant,Captain,22,Male,Yale,Physics
+Jerry,Stockton,Iron Man,20,Male,Columbia,Chemistry
+Judy,Stockton,Knight,38,Male,Hardvard,Physics
+Elizabeth,Levy,Bishop,32,Male,Oxford,Mechanical Engineering
+Judy,Holland,Scarlet,34,Male,Cornell,Mathematics
+Tom,Evan,The Rock,30,Male,Northwestern,Mechanical Engineering
+Jerry,Jordan,King,37,Female,UC Berkley,Chemistry
+Jim,Evan,Captain,38,Female,Cambridge,Physics
+Michael,Downey,Mamba,28,Female,Cambridge,Physics
+Jim,Ann,Spider,20,Female,Hardvard,Electrical Engineering
+Jack,Buss,Spider,34,Female,Fu Jen Cathlic,Mechanical Engineering
+Benedict,Bryant,Pawn,38,Female,Stanford,Electrical Engineering
+Tom,Olsen,God,39,Female,Cambridge,Psychology
+Robert,James,Prince,31,Male,Hardvard,Chemistry
+Jim,Buss,Scarlet,21,Male,Princton,Biology
+Judy,Levy,Bishop,39,Male,Yale,Mechanical Engineering
+Benedict,Olsen,Iron Man,26,Female,UC Berkley,Electrical Engineering
+Elizabeth,Levy,Mamba,23,Male,Columbia,Computer Science
+Kobe,Holland,Bishop,31,Female,Princton,Physics
+Robert,Ann,The Rock,34,Female,Fu Jen Cathlic,Mathematics
+Judy,Holland,God,37,Male,Yale,Psychology
+Cris,Downey,Scarlet,22,Female,Fu Jen Cathlic,Computer Science
+Alice,James,Iron Man,33,Female,Cornell,Mechanical Engineering
+Michael,Stockton,King,19,Male,Carnegie Mellon,Biology
+Elizabeth,Jordan,Prince,39,Female,Columbia,Biology
+Jerry,James,Pawn,21,Male,Northwestern,Psychology
+Benedict,Jackson,Iron Man,37,Male,Stanford,Mechanical Engineering
+Lebron,Evan,Queen,22,Male,Columbia,Physics
+Lebron,Ann,God,22,Female,Fu Jen Cathlic,Biology
+Michael,Evan,Scarlet,21,Male,Yale,Biology
+Elizabeth,Bryant,Mamba,28,Female,Hardvard,Mathematics
+Alice,Buss,Queen,32,Male,Fu Jen Cathlic,Computer Science
+Judy,Holland,Rook,36,Male,Cambridge,Chemistry
+Michael,Olsen,The Rock,28,Female,Oxford,Computer Science
+Tom,Olsen,Princess,39,Male,Cambridge,Computer Science
+Judy,Evan,King,40,Female,Cornell,Mathematics
+John,Jordan,Pawn,40,Male,Cornell,Computer Science
+Jerry,Buss,The Rock,39,Male,Carnegie Mellon,Chemistry
+Elizabeth,Buss,Bishop,31,Male,Yale,Mathematics
+Kobe,Downey,The Rock,39,Female,Cambridge,Computer Science
+Jack,James,The Rock,29,Female,Fu Jen Cathlic,Physics
+Alice,Stockton,Prince,26,Female,Fu Jen Cathlic,Electrical Engineering
+Judy,Evan,Rook,24,Female,Fu Jen Cathlic,Physics
+Lebron,James,Prince,30,Female,Princton,Physics
+Benedict,Ann,Spider,19,Male,Columbia,Computer Science
+Cris,Stockton,The Rock,39,Female,Cornell,Chemistry
+Lebron,James,Iron Man,23,Female,UC Berkley,Mathematics
+Jane,Levy,Iron Man,27,Female,Princton,Electrical Engineering
+Judy,Holland,Iron Man,27,Female,Carnegie Mellon,Computer Science
+Elizabeth,Stockton,Prince,26,Male,Cambridge,Electrical Engineering
+Jim,Stockton,Spider,23,Male,Cambridge,Mechanical Engineering
+Jack,Buss,Rook,18,Female,Columbia,Computer Science
+Michael,Bryant,Captain,32,Male,Cornell,Mathematics
+Kobe,Ann,Prince,21,Female,Columbia,Psychology
+Benedict,Stockton,Captain,37,Male,Fu Jen Cathlic,Biology
+Jack,Stockton,King,29,Female,UC Berkley,Computer Science
+Jack,Downey,Mamba,40,Male,Cambridge,Biology
+Jack,Ann,Knight,36,Male,Carnegie Mellon,Mathematics
+Michael,Jackson,Rook,23,Female,Cornell,Mechanical Engineering
+Elizabeth,Downey,Knight,39,Male,Cambridge,Computer Science
+Robert,Ann,Mamba,37,Male,Oxford,Mechanical Engineering
+Robert,Buss,God,27,Female,Oxford,Mathematics
+Judy,Stockton,Mamba,31,Female,UC Berkley,Mechanical Engineering
+Robert,Olsen,Pawn,33,Female,Hardvard,Biology
+Benedict,Ann,Pawn,28,Male,Stanford,Mechanical Engineering
+John,Buss,Rook,34,Female,Stanford,Chemistry
+Cris,Bryant,Princess,38,Male,Hardvard,Electrical Engineering
+Benedict,Stockton,Spider,21,Female,Columbia,Computer Science
+Alice,James,Iron Man,32,Female,Carnegie Mellon,Chemistry
+Elizabeth,Olsen,Iron Man,25,Female,Carnegie Mellon,Biology
+Jane,Bryant,Prince,22,Male,Hardvard,Mathematics
+Jack,James,King,32,Male,Northwestern,Chemistry
+Judy,Ann,Pawn,29,Male,Fu Jen Cathlic,Computer Science
+Cris,Evan,God,36,Female,Northwestern,Physics
+Tom,Stockton,Spider,21,Male,Columbia,Chemistry
+Jim,Bryant,Knight,33,Male,Stanford,Psychology
+Judy,Bryant,Knight,24,Female,Cornell,Chemistry
+Mary,Olsen,Spider,31,Male,Columbia,Biology
+Jack,Levy,Spider,37,Male,Cornell,Computer Science
+Benedict,Ann,Bishop,25,Male,Princton,Computer Science
+Kobe,Ann,Prince,19,Female,Stanford,Biology
+Benedict,Stockton,The Rock,27,Male,Princton,Psychology
+Tom,Holland,Knight,32,Male,Fu Jen Cathlic,Physics
+Robert,Ann,Mamba,23,Male,Oxford,Biology
+Jane,Holland,Queen,36,Male,Stanford,Mechanical Engineering
+Jane,Olsen,Prince,18,Female,Stanford,Physics
+Lebron,Holland,God,24,Male,Stanford,Chemistry
+Jane,Bryant,King,22,Female,UC Berkley,Physics
+Jack,Jackson,The Rock,22,Male,Northwestern,Chemistry
+Benedict,Downey,Bishop,39,Male,UC Berkley,Computer Science
+Kobe,Ann,Rook,29,Male,Cambridge,Mechanical Engineering
+Tom,James,Knight,39,Female,Oxford,Chemistry
+Jerry,Downey,God,32,Male,Carnegie Mellon,Chemistry
+Judy,James,Iron Man,22,Female,Cornell,Biology
+Cris,Olsen,Mamba,25,Female,Oxford,Computer Science
+Judy,Evan,Captain,29,Male,Stanford,Psychology
+Elizabeth,Stockton,Knight,24,Male,Oxford,Mathematics
+Jack,Levy,Queen,18,Male,Cambridge,Physics
+John,Levy,Queen,38,Female,Princton,Computer Science
+Judy,Stockton,Mamba,26,Female,Stanford,Chemistry
+Cris,Downey,Iron Man,34,Male,Oxford,Psychology
+Tom,Ann,God,39,Female,Stanford,Mechanical Engineering
+Jack,Bryant,Scarlet,22,Male,Yale,Psychology
+Robert,Stockton,King,27,Male,Cornell,Biology
+Kobe,Evan,King,22,Female,Fu Jen Cathlic,Mechanical Engineering
+John,Jordan,The Rock,24,Female,Hardvard,Mathematics
+Elizabeth,Jackson,God,18,Female,Hardvard,Biology
+John,James,Bishop,39,Female,Hardvard,Chemistry
+Kobe,Olsen,Iron Man,32,Male,Columbia,Chemistry
+Benedict,Levy,Rook,30,Female,Yale,Chemistry
+Robert,Levy,Pawn,27,Male,Princton,Electrical Engineering
+Michael,James,Knight,23,Male,Columbia,Mechanical Engineering
+Jim,Jordan,Pawn,32,Female,Cambridge,Chemistry
+Robert,Holland,Knight,30,Female,Oxford,Physics
+Jim,Bryant,Spider,25,Male,Cambridge,Computer Science
+Elizabeth,Downey,Queen,40,Female,Columbia,Psychology
+Jerry,Jackson,Queen,25,Female,UC Berkley,Mathematics
+Elizabeth,James,Knight,24,Female,Northwestern,Psychology
+Lebron,Holland,Iron Man,33,Female,Hardvard,Mathematics
+John,Jordan,Rook,26,Male,Princton,Physics
+Lebron,Stockton,God,37,Male,Stanford,Biology
+Tom,Downey,Captain,29,Male,Carnegie Mellon,Computer Science
+Judy,Bryant,Pawn,18,Male,Columbia,Mechanical Engineering
+Elizabeth,Downey,Iron Man,33,Female,UC Berkley,Mathematics
+Benedict,Jackson,Scarlet,39,Female,Columbia,Physics
+Kobe,James,Prince,32,Male,Cornell,Physics
+Michael,James,Scarlet,27,Male,Northwestern,Mechanical Engineering
+Michael,Levy,Mamba,40,Female,Fu Jen Cathlic,Mechanical Engineering
+Jane,Levy,Spider,30,Male,Northwestern,Computer Science
+Jane,James,Iron Man,40,Female,Cornell,Electrical Engineering
+Judy,Holland,God,27,Female,Columbia,Computer Science
+Elizabeth,Stockton,The Rock,31,Female,Hardvard,Mechanical Engineering
+Jerry,Jordan,Rook,25,Female,UC Berkley,Psychology
+Benedict,Stockton,Rook,20,Male,Northwestern,Physics
+John,Olsen,Prince,23,Female,Carnegie Mellon,Mechanical Engineering
+Jim,Olsen,God,40,Female,Yale,Computer Science
+Mary,Olsen,God,23,Male,Northwestern,Computer Science
+Kobe,Jackson,Captain,39,Female,Princton,Biology
+Jane,Holland,God,20,Female,Fu Jen Cathlic,Computer Science
+Jane,Olsen,God,27,Female,Cambridge,Computer Science
+Robert,Olsen,King,25,Female,UC Berkley,Biology
+Tom,Holland,Spider,30,Male,Yale,Chemistry
+Alice,Olsen,Captain,19,Male,Carnegie Mellon,Mechanical Engineering
+Jack,Evan,Queen,25,Male,Princton,Computer Science
+Cris,Bryant,The Rock,30,Female,Cornell,Physics
+Mary,Levy,Iron Man,28,Female,Oxford,Computer Science
+Kobe,James,Queen,24,Female,Fu Jen Cathlic,Computer Science
+Mary,Evan,Queen,22,Male,Columbia,Chemistry
+Robert,Downey,Scarlet,40,Female,Cornell,Psychology
+Robert,Jordan,Knight,26,Female,Oxford,Physics
+John,Holland,Rook,22,Female,Princton,Mechanical Engineering
+Michael,James,Scarlet,31,Female,UC Berkley,Computer Science
+John,Evan,The Rock,20,Male,Princton,Mathematics
+Alice,Bryant,Captain,38,Male,Cornell,Mathematics
+Robert,Jordan,Iron Man,37,Female,Yale,Psychology
+Jack,Bryant,Knight,32,Female,Cambridge,Mechanical Engineering
+Benedict,Olsen,The Rock,40,Female,Fu Jen Cathlic,Chemistry
+Jim,Stockton,Princess,26,Female,Carnegie Mellon,Mathematics
+Kobe,Jordan,Queen,21,Female,Columbia,Mathematics
+Alice,Jackson,Pawn,24,Male,Stanford,Psychology
+Jack,Ann,Knight,26,Female,Oxford,Psychology
+Jerry,Stockton,Pawn,34,Female,Yale,Electrical Engineering
+Jack,Downey,Iron Man,21,Male,Cambridge,Biology
+Robert,Stockton,Queen,25,Male,UC Berkley,Mathematics
+Elizabeth,Levy,The Rock,22,Male,Fu Jen Cathlic,Psychology
+Jack,Jackson,Mamba,25,Male,Oxford,Electrical Engineering
+Tom,Stockton,Queen,27,Male,Fu Jen Cathlic,Psychology
+Jim,Holland,God,18,Female,Hardvard,Psychology
+Robert,Stockton,Scarlet,28,Male,UC Berkley,Physics
+Tom,Olsen,Rook,30,Female,Hardvard,Physics
+Mary,James,Prince,32,Male,Princton,Electrical Engineering
+Mary,Olsen,Bishop,38,Female,Cambridge,Mechanical Engineering
+Judy,Buss,Spider,37,Female,Yale,Physics
+Jerry,Olsen,Princess,24,Female,Yale,Computer Science
+Cris,Ann,Princess,37,Male,Fu Jen Cathlic,Biology
+Michael,Jackson,Knight,34,Female,Fu Jen Cathlic,Mathematics
+Mary,Downey,Prince,27,Male,Northwestern,Electrical Engineering
+Judy,Bryant,Iron Man,23,Female,Cornell,Biology
+Kobe,Levy,Queen,32,Female,Northwestern,Psychology
+Jim,Jordan,Iron Man,31,Male,UC Berkley,Electrical Engineering
+Kobe,Evan,Knight,29,Female,Fu Jen Cathlic,Psychology
+Jim,Evan,King,27,Female,Princton,Chemistry
+Jane,Holland,Queen,33,Male,Columbia,Chemistry
+Robert,Evan,Captain,23,Male,Oxford,Electrical Engineering
+John,Evan,Queen,40,Female,Fu Jen Cathlic,Computer Science
+Michael,Olsen,Knight,19,Female,Stanford,Psychology
+Jim,James,Pawn,37,Male,Stanford,Psychology
+Kobe,James,Mamba,28,Female,Columbia,Mechanical Engineering
+Jack,Bryant,Knight,39,Female,Columbia,Psychology
+Robert,Ann,Iron Man,26,Male,Cambridge,Psychology
+Alice,Downey,Princess,32,Male,Cambridge,Biology
+Jim,Bryant,Rook,35,Male,Hardvard,Mathematics
+John,Holland,Pawn,37,Male,Northwestern,Mathematics
+John,James,Iron Man,33,Male,Hardvard,Physics
+Tom,Downey,Rook,39,Female,Fu Jen Cathlic,Psychology
+Elizabeth,James,Pawn,24,Female,Cambridge,Computer Science
+Benedict,Evan,Prince,27,Male,Fu Jen Cathlic,Chemistry
+Judy,Holland,Spider,35,Female,UC Berkley,Physics
+Lebron,James,God,34,Female,UC Berkley,Mathematics
+Kobe,Buss,Bishop,20,Female,Oxford,Chemistry
+Judy,Buss,Prince,29,Female,Fu Jen Cathlic,Physics
+Jerry,Jackson,Mamba,19,Female,Cambridge,Biology
+Judy,Buss,Pawn,37,Male,Northwestern,Electrical Engineering
+Jane,Evan,Queen,40,Male,Columbia,Mathematics
+Cris,Bryant,Rook,34,Male,Yale,Computer Science
+Lebron,Evan,Captain,28,Male,Hardvard,Psychology
+Jane,Stockton,Mamba,24,Male,Hardvard,Mechanical Engineering
+Tom,Evan,Mamba,30,Male,Oxford,Electrical Engineering
+Jim,Ann,Mamba,38,Female,Carnegie Mellon,Electrical Engineering
+Lebron,Bryant,Iron Man,20,Male,Cornell,Biology
+Judy,Jackson,Captain,31,Male,Northwestern,Biology
+Lebron,Jordan,Princess,40,Female,Cambridge,Mechanical Engineering
+Jerry,Downey,Princess,28,Female,Stanford,Mathematics
+Jack,Stockton,Rook,21,Female,Columbia,Mathematics
+Jane,Stockton,Knight,18,Male,Stanford,Computer Science
+Kobe,Buss,Queen,35,Female,Carnegie Mellon,Chemistry
+Jerry,Jordan,Knight,22,Female,Yale,Psychology
+Jack,Buss,God,32,Female,Cambridge,Biology
+Kobe,Downey,Prince,19,Male,Cornell,Chemistry
+Judy,Buss,Princess,37,Male,Cambridge,Mathematics
+Elizabeth,Jackson,Queen,27,Female,Hardvard,Biology
+Judy,Olsen,God,36,Male,Hardvard,Chemistry
+Lebron,Downey,Spider,36,Male,Oxford,Mathematics
+Benedict,Bryant,Princess,31,Female,Columbia,Biology
+Benedict,Ann,Mamba,19,Female,Yale,Physics
+Kobe,James,Knight,27,Male,Northwestern,Chemistry
+Judy,Ann,Prince,27,Female,Princton,Electrical Engineering
+Jerry,Evan,Prince,39,Female,Northwestern,Psychology
+Jane,Buss,Iron Man,36,Female,Cambridge,Computer Science
+John,Olsen,Iron Man,36,Male,Northwestern,Mechanical Engineering
+Cris,Bryant,Pawn,34,Male,Princton,Mathematics
+Tom,Downey,Pawn,35,Female,Columbia,Psychology
+Tom,Buss,Prince,32,Female,Yale,Biology
+Cris,Evan,Scarlet,30,Male,Yale,Biology
+Jack,Olsen,Captain,30,Male,Cambridge,Physics
+Jack,Bryant,Scarlet,40,Female,Stanford,Mathematics
+Jack,Evan,Captain,37,Male,Hardvard,Electrical Engineering
+Elizabeth,Olsen,Princess,26,Male,Yale,Mechanical Engineering
+Michael,Stockton,Pawn,22,Female,Stanford,Mechanical Engineering
+Jim,James,Iron Man,27,Male,Cambridge,Electrical Engineering
+Elizabeth,Bryant,Princess,37,Male,Stanford,Physics
+Elizabeth,Buss,Captain,19,Female,Oxford,Biology
+John,Evan,Princess,37,Female,Cornell,Electrical Engineering
+Michael,Jordan,King,33,Male,Cambridge,Biology
+Jack,Bryant,God,29,Female,Columbia,Electrical Engineering
+Jim,Buss,Prince,21,Male,Cambridge,Mathematics
+Cris,Stockton,The Rock,32,Female,Hardvard,Computer Science
+Jane,Stockton,The Rock,27,Female,Fu Jen Cathlic,Mathematics
+Benedict,Olsen,Pawn,40,Male,Stanford,Chemistry
+Robert,Stockton,The Rock,26,Female,Oxford,Physics
+Elizabeth,James,Pawn,20,Male,Oxford,Physics
+Jane,Holland,Bishop,18,Female,Carnegie Mellon,Chemistry
+Jane,Jackson,Rook,22,Female,Stanford,Psychology
+Mary,Downey,Captain,40,Female,Stanford,Psychology
+Kobe,Ann,Spider,39,Male,UC Berkley,Electrical Engineering
+John,Stockton,Pawn,24,Male,UC Berkley,Mechanical Engineering
+Jack,Holland,Princess,37,Male,Columbia,Electrical Engineering
+Alice,Jordan,Pawn,18,Female,UC Berkley,Computer Science
+John,Jordan,King,28,Female,Northwestern,Electrical Engineering
+Cris,Ann,Captain,31,Female,Yale,Electrical Engineering
+Michael,Evan,King,30,Male,Hardvard,Electrical Engineering
+Cris,Holland,Iron Man,30,Female,UC Berkley,Biology
+Judy,Jackson,God,35,Male,UC Berkley,Psychology
+Elizabeth,Buss,Bishop,27,Male,Cornell,Computer Science
+Michael,James,Spider,35,Male,UC Berkley,Psychology
+Tom,Ann,Iron Man,26,Male,Fu Jen Cathlic,Physics
+Cris,Evan,God,35,Female,Cornell,Physics
+Jim,Buss,Bishop,22,Male,Hardvard,Mechanical Engineering
+John,Olsen,Queen,28,Female,Carnegie Mellon,Biology
+Kobe,James,Captain,30,Female,Oxford,Psychology
+Robert,Downey,Mamba,25,Male,Northwestern,Biology
+Mary,Levy,Iron Man,40,Male,Yale,Mathematics
+Jim,Jackson,The Rock,33,Female,UC Berkley,Chemistry
+Lebron,Levy,Queen,28,Female,Northwestern,Computer Science
+Lebron,Stockton,Prince,22,Female,Princton,Mechanical Engineering
+Jane,Holland,Rook,25,Female,Cornell,Biology
+Elizabeth,Holland,Captain,23,Male,Stanford,Biology
+Michael,Jackson,Knight,34,Male,Princton,Chemistry
+Jerry,Holland,Prince,22,Female,Cornell,Computer Science
+Elizabeth,Bryant,Knight,30,Female,UC Berkley,Physics
+John,Levy,Bishop,35,Female,Yale,Chemistry
+Judy,Holland,Knight,20,Male,Columbia,Chemistry
+Benedict,Jackson,Prince,27,Male,Cambridge,Computer Science
+Tom,Evan,Captain,30,Female,Carnegie Mellon,Computer Science
+Tom,James,Rook,25,Male,Northwestern,Physics
+Michael,Stockton,Mamba,22,Male,Fu Jen Cathlic,Electrical Engineering
+Michael,Jackson,Knight,38,Male,Hardvard,Chemistry
+Jim,Jackson,Captain,23,Male,Oxford,Biology
+Lebron,Levy,Queen,24,Female,Stanford,Physics
+Mary,Buss,Prince,24,Female,Cornell,Chemistry
+Mary,Jackson,King,22,Female,Cornell,Chemistry
+Tom,Holland,Iron Man,36,Female,Cornell,Biology
+Cris,Downey,Knight,35,Female,Fu Jen Cathlic,Chemistry
+Benedict,Bryant,Captain,29,Female,Stanford,Chemistry
+Jerry,Holland,Knight,35,Male,Stanford,Electrical Engineering
+Jim,Jordan,Pawn,22,Male,Northwestern,Biology
+Benedict,Buss,Princess,40,Female,Cambridge,Mathematics
+Tom,Downey,Iron Man,22,Female,Oxford,Mathematics
+Robert,Levy,Captain,33,Female,Carnegie Mellon,Electrical Engineering
+Jim,Levy,Captain,34,Male,Princton,Computer Science
+Elizabeth,Stockton,Mamba,21,Male,Stanford,Biology
+Mary,Olsen,Captain,37,Female,Princton,Biology
+John,Downey,Bishop,33,Male,UC Berkley,Electrical Engineering
+Jack,Buss,Queen,27,Female,Columbia,Computer Science
+Mary,James,Prince,39,Male,Carnegie Mellon,Biology
+Alice,Bryant,Knight,22,Male,Columbia,Physics
+Judy,Evan,Prince,33,Male,UC Berkley,Mathematics
+Jack,Buss,Queen,37,Female,Cambridge,Chemistry
+Jim,Downey,The Rock,20,Male,Yale,Electrical Engineering
+Judy,Holland,Scarlet,32,Female,Fu Jen Cathlic,Physics
+Jane,Stockton,Knight,38,Male,Fu Jen Cathlic,Physics
+Michael,Jackson,King,24,Female,Stanford,Mechanical Engineering
+Alice,Jordan,The Rock,33,Male,Hardvard,Electrical Engineering
+Alice,Holland,Iron Man,22,Male,Columbia,Physics
+Cris,Stockton,King,30,Male,Northwestern,Biology
+Tom,Jordan,Pawn,37,Female,Yale,Computer Science
+Jerry,Downey,Spider,24,Male,Carnegie Mellon,Computer Science
+Cris,Ann,Knight,37,Female,Northwestern,Physics
+Mary,Evan,King,18,Female,UC Berkley,Mathematics
+Alice,Ann,Mamba,35,Male,Cambridge,Mathematics
+Robert,Levy,Rook,24,Male,Northwestern,Electrical Engineering
+Jane,Bryant,Prince,34,Female,Carnegie Mellon,Physics
+John,Ann,Mamba,37,Female,Northwestern,Mathematics
+Alice,Downey,God,19,Male,Oxford,Chemistry
+Jack,Jackson,Prince,33,Male,Oxford,Mathematics
+Alice,Bryant,Spider,33,Female,Oxford,Mechanical Engineering
+Tom,Evan,Spider,28,Female,Cambridge,Mechanical Engineering
+Lebron,Downey,Captain,18,Male,Hardvard,Chemistry
+Tom,Holland,Mamba,38,Female,Cornell,Biology
+Elizabeth,Bryant,Pawn,19,Female,Cornell,Mathematics
+Jim,Levy,Bishop,40,Female,Stanford,Electrical Engineering
+Tom,Downey,Rook,39,Male,UC Berkley,Psychology
+John,Olsen,The Rock,30,Male,UC Berkley,Psychology
+Benedict,Stockton,God,23,Male,UC Berkley,Computer Science
+Benedict,Holland,Queen,18,Female,Yale,Electrical Engineering
+Lebron,James,Captain,31,Female,Stanford,Mechanical Engineering
+Cris,James,Pawn,34,Male,Carnegie Mellon,Computer Science
+Mary,James,Rook,30,Female,Fu Jen Cathlic,Psychology
+Lebron,Bryant,King,25,Female,UC Berkley,Physics
+Jerry,Bryant,Pawn,26,Female,Princton,Chemistry
+Mary,Jordan,The Rock,34,Male,Columbia,Mathematics
+Jack,Levy,Pawn,19,Female,Princton,Mechanical Engineering
+Cris,Holland,Captain,40,Male,Fu Jen Cathlic,Psychology
+Jane,Stockton,Iron Man,21,Female,Cornell,Electrical Engineering
+Jack,Downey,Queen,40,Female,Cambridge,Chemistry
+Alice,Levy,The Rock,24,Female,Oxford,Biology
+Lebron,James,Mamba,34,Female,Hardvard,Electrical Engineering
+Benedict,Downey,King,26,Female,UC Berkley,Psychology
+Elizabeth,James,Iron Man,36,Male,Northwestern,Computer Science
+Kobe,James,Rook,23,Male,Yale,Biology
+Jim,Buss,God,24,Male,Yale,Physics
+Elizabeth,Jordan,Pawn,29,Female,Princton,Psychology
+Jack,Holland,Rook,33,Male,Northwestern,Physics
+Judy,James,Captain,18,Female,Carnegie Mellon,Mechanical Engineering
+Judy,Jordan,King,20,Female,Stanford,Biology
+Jane,Stockton,Pawn,32,Male,Fu Jen Cathlic,Mechanical Engineering
+Alice,Buss,Pawn,37,Male,Northwestern,Chemistry
+Tom,Jordan,Scarlet,21,Female,Fu Jen Cathlic,Electrical Engineering
+Jane,Olsen,Pawn,20,Female,Cambridge,Biology
+Michael,Jordan,Iron Man,22,Female,Carnegie Mellon,Computer Science
+Jane,Downey,Bishop,38,Female,Oxford,Mathematics
+Mary,Jackson,Queen,25,Male,Fu Jen Cathlic,Computer Science
+Alice,James,Princess,31,Male,Fu Jen Cathlic,Computer Science
+Jerry,Stockton,Scarlet,32,Female,Oxford,Psychology
+John,James,Queen,23,Female,Hardvard,Electrical Engineering
+Jane,Buss,Scarlet,38,Male,Yale,Computer Science
+Benedict,Stockton,Scarlet,25,Female,Cornell,Physics
+Elizabeth,Downey,Prince,37,Female,Fu Jen Cathlic,Computer Science
+Lebron,Downey,The Rock,34,Female,Cornell,Mathematics
+Michael,Levy,Princess,24,Male,Stanford,Mathematics
+Jack,Holland,Prince,26,Female,Yale,Mathematics
+Robert,Jackson,Pawn,40,Female,UC Berkley,Electrical Engineering
+Robert,Olsen,Knight,38,Male,Stanford,Chemistry
+Judy,Bryant,Spider,40,Male,Northwestern,Chemistry
+Jack,Holland,Knight,26,Female,Northwestern,Mathematics
+Elizabeth,Stockton,Iron Man,29,Male,Columbia,Electrical Engineering
+Jerry,Ann,Scarlet,36,Female,Stanford,Chemistry
+Jim,Stockton,Scarlet,23,Female,Cornell,Mechanical Engineering,

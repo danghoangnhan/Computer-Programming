@@ -1,0 +1,1500 @@
+Question 1:
+P=0.00W
+
+Question 2:
+U=1182.93V
+
+Question 3:
+I=0.00A
+
+Question 4:
+P=1118096300.00W
+
+Question 5:
+I=0.01A
+
+Question 6:
+P=2135.02W
+
+Question 7:
+U=0.93V
+
+Question 8:
+P=1175031200.00W
+
+Question 9:
+I=24888183.52A
+
+Question 10:
+P=670787500000.00W
+
+Question 11:
+P=787312500.00W
+
+Question 12:
+I=0.02A
+
+Question 13:
+U=248.09V
+
+Question 14:
+I=0.00A
+
+Question 15:
+I=0.00A
+
+Question 16:
+I=0.04A
+
+Question 17:
+U=0.00V
+
+Question 18:
+I=23.23A
+
+Question 19:
+P=508060800000.00W
+
+Question 20:
+U=0.00V
+
+Question 21:
+I=0.03A
+
+Question 22:
+I=0.00A
+
+Question 23:
+U=2357.80V
+
+Question 24:
+I=0.01A
+
+Question 25:
+U=1219.39V
+
+Question 26:
+U=1070.81V
+
+Question 27:
+P=532.98W
+
+Question 28:
+I=0.00A
+
+Question 29:
+I=15982241.95A
+
+Question 30:
+P=959816000.00W
+
+Question 31:
+P=1.14W
+
+Question 32:
+U=1.18V
+
+Question 33:
+U=0.00V
+
+Question 34:
+U=0.00V
+
+Question 35:
+P=0.54W
+
+Question 36:
+U=608142.49V
+
+Question 37:
+U=709.06V
+
+Question 38:
+U=875389.41V
+
+Question 39:
+U=0.00V
+
+Question 40:
+P=865875100000.00W
+
+Question 41:
+I=0.01A
+
+Question 42:
+P=888938700000.00W
+
+Question 43:
+I=0.00A
+
+Question 44:
+I=28.48A
+
+Question 45:
+P=1133.38W
+
+Question 46:
+I=0.00A
+
+Question 47:
+I=15826.18A
+
+Question 48:
+U=845498.78V
+
+Question 49:
+I=0.02A
+
+Question 50:
+P=1067198.40W
+
+Question 51:
+P=1703.75W
+
+Question 52:
+I=0.07A
+
+Question 53:
+P=538062000000.00W
+
+Question 54:
+P=0.00W
+
+Question 55:
+P=1863.66W
+
+Question 56:
+U=1.90V
+
+Question 57:
+I=43.86A
+
+Question 58:
+P=303960.40W
+
+Question 59:
+I=0.00A
+
+Question 60:
+U=922.55V
+
+Question 61:
+U=0.00V
+
+Question 62:
+P=471403600000.00W
+
+Question 63:
+I=22.00A
+
+Question 64:
+I=0.00A
+
+Question 65:
+P=0.00W
+
+Question 66:
+U=1177941176.47V
+
+Question 67:
+P=1298688.10W
+
+Question 68:
+U=1772036.47V
+
+Question 69:
+P=573795000.00W
+
+Question 70:
+I=0.00A
+
+Question 71:
+P=1055082.30W
+
+Question 72:
+I=0.03A
+
+Question 73:
+U=0.00V
+
+Question 74:
+P=1151150000.00W
+
+Question 75:
+P=1269.60W
+
+Question 76:
+P=883598.40W
+
+Question 77:
+P=464.52W
+
+Question 78:
+P=822.35W
+
+Question 79:
+I=0.00A
+
+Question 80:
+U=0.00V
+
+Question 81:
+I=0.00A
+
+Question 82:
+P=1042191000.00W
+
+Question 83:
+I=0.00A
+
+Question 84:
+U=3.89V
+
+Question 85:
+I=48249.82A
+
+Question 86:
+P=1.04W
+
+Question 87:
+P=412820100.00W
+
+Question 88:
+P=774.89W
+
+Question 89:
+U=3494584.84V
+
+Question 90:
+P=597569.00W
+
+Question 91:
+P=1.56W
+
+Question 92:
+U=0.00V
+
+Question 93:
+I=0.00A
+
+Question 94:
+P=468.04W
+
+Question 95:
+I=0.01A
+
+Question 96:
+P=0.00W
+
+Question 97:
+P=1309585900000.00W
+
+Question 98:
+I=35410.56A
+
+Question 99:
+U=1013.87V
+
+Question 100:
+U=891.40V
+
+Question 101:
+U=498216.41V
+
+Question 102:
+U=867.40V
+
+Question 103:
+P=494.40W
+
+Question 104:
+U=1381.15V
+
+Question 105:
+P=1.76W
+
+Question 106:
+I=0.02A
+
+Question 107:
+I=0.00A
+
+Question 108:
+P=0.51W
+
+Question 109:
+I=0.03A
+
+Question 110:
+I=0.05A
+
+Question 111:
+P=355448.00W
+
+Question 112:
+P=1138680.00W
+
+Question 113:
+U=4451.39V
+
+Question 114:
+I=0.00A
+
+Question 115:
+I=0.05A
+
+Question 116:
+P=1944628.30W
+
+Question 117:
+P=1054.56W
+
+Question 118:
+P=981302500000000.00W
+
+Question 119:
+P=239.72W
+
+Question 120:
+I=20.63A
+
+Question 121:
+P=344.77W
+
+Question 122:
+U=1.96V
+
+Question 123:
+U=0.59V
+
+Question 124:
+I=10263025.07A
+
+Question 125:
+U=0.99V
+
+Question 126:
+U=254385.96V
+
+Question 127:
+I=0.00A
+
+Question 128:
+I=63996273.87A
+
+Question 129:
+I=0.00A
+
+Question 130:
+P=868993800000.00W
+
+Question 131:
+P=1.11W
+
+Question 132:
+U=348017621.15V
+
+Question 133:
+U=0.99V
+
+Question 134:
+I=33404.92A
+
+Question 135:
+I=25.04A
+
+Question 136:
+U=260512.82V
+
+Question 137:
+U=284182.31V
+
+Question 138:
+P=0.00W
+
+Question 139:
+I=0.00A
+
+Question 140:
+P=1540700600000000.00W
+
+Question 141:
+I=0.02A
+
+Question 142:
+P=408826900.00W
+
+Question 143:
+P=1087879.00W
+
+Question 144:
+I=0.00A
+
+Question 145:
+I=0.05A
+
+Question 146:
+U=439077.94V
+
+Question 147:
+I=0.07A
+
+Question 148:
+U=1674.46V
+
+Question 149:
+U=0.00V
+
+Question 150:
+U=5311.93V
+
+Question 151:
+U=1167.58V
+
+Question 152:
+P=2235897400.00W
+
+Question 153:
+P=1784.13W
+
+Question 154:
+U=2726153846.15V
+
+Question 155:
+I=0.04A
+
+Question 156:
+P=470.43W
+
+Question 157:
+U=0.00V
+
+Question 158:
+U=1770718.23V
+
+Question 159:
+P=1780584800000000.00W
+
+Question 160:
+U=1.27V
+
+Question 161:
+I=0.00A
+
+Question 162:
+P=1718865900.00W
+
+Question 163:
+P=0.28W
+
+Question 164:
+I=0.01A
+
+Question 165:
+U=1.73V
+
+Question 166:
+U=0.00V
+
+Question 167:
+P=994.68W
+
+Question 168:
+P=1557796000000000.00W
+
+Question 169:
+P=758144000000.00W
+
+Question 170:
+U=558718.86V
+
+Question 171:
+U=0.00V
+
+Question 172:
+P=1526994900.00W
+
+Question 173:
+P=306175300.00W
+
+Question 174:
+U=0.00V
+
+Question 175:
+P=1063296.00W
+
+Question 176:
+U=2.12V
+
+Question 177:
+I=0.04A
+
+Question 178:
+P=368695.80W
+
+Question 179:
+U=0.00V
+
+Question 180:
+P=783290000000000.00W
+
+Question 181:
+P=1197.63W
+
+Question 182:
+I=0.00A
+
+Question 183:
+P=436.39W
+
+Question 184:
+U=3256666.67V
+
+Question 185:
+I=27.61A
+
+Question 186:
+U=0.86V
+
+Question 187:
+I=50961.28A
+
+Question 188:
+I=0.00A
+
+Question 189:
+I=0.00A
+
+Question 190:
+U=1111817026.68V
+
+Question 191:
+U=691.36V
+
+Question 192:
+U=0.00V
+
+Question 193:
+U=0.00V
+
+Question 194:
+I=0.00A
+
+Question 195:
+P=811734000.00W
+
+Question 196:
+P=1.01W
+
+Question 197:
+P=490.56W
+
+Question 198:
+U=0.00V
+
+Question 199:
+P=482765400000.00W
+
+Question 200:
+P=354132800000.00W
+
+Question 201:
+I=0.00A
+
+Question 202:
+U=0.00V
+
+Question 203:
+I=0.03A
+
+Question 204:
+I=28.69A
+
+Question 205:
+I=0.00A
+
+Question 206:
+P=1214227300000.00W
+
+Question 207:
+U=0.44V
+
+Question 208:
+P=1307957400.00W
+
+Question 209:
+I=74.45A
+
+Question 210:
+I=14.15A
+
+Question 211:
+U=1.40V
+
+Question 212:
+P=1194655000000000.00W
+
+Question 213:
+I=12.22A
+
+Question 214:
+U=0.00V
+
+Question 215:
+P=0.00W
+
+Question 216:
+I=0.00A
+
+Question 217:
+I=0.00A
+
+Question 218:
+U=636.26V
+
+Question 219:
+U=1821759.26V
+
+Question 220:
+P=1032246600.00W
+
+Question 221:
+P=1002.62W
+
+Question 222:
+I=0.00A
+
+Question 223:
+I=0.03A
+
+Question 224:
+U=389749.70V
+
+Question 225:
+P=861414.40W
+
+Question 226:
+U=3515527950.31V
+
+Question 227:
+P=0.00W
+
+Question 228:
+P=0.00W
+
+Question 229:
+U=1492248.06V
+
+Question 230:
+U=0.00V
+
+Question 231:
+U=911854.10V
+
+Question 232:
+P=0.00W
+
+Question 233:
+P=1773766.40W
+
+Question 234:
+P=530880000000000.00W
+
+Question 235:
+U=480371.90V
+
+Question 236:
+P=474402.50W
+
+Question 237:
+P=748620.90W
+
+Question 238:
+P=0.00W
+
+Question 239:
+I=42.56A
+
+Question 240:
+P=880948.30W
+
+Question 241:
+U=0.00V
+
+Question 242:
+I=66445182.72A
+
+Question 243:
+P=999.26W
+
+Question 244:
+I=0.07A
+
+Question 245:
+P=1063335.00W
+
+Question 246:
+I=33673.26A
+
+Question 247:
+P=0.23W
+
+Question 248:
+U=1.18V
+
+Question 249:
+U=2049180.33V
+
+Question 250:
+U=2.86V
+
+Question 251:
+P=464735.10W
+
+Question 252:
+I=35.82A
+
+Question 253:
+U=0.00V
+
+Question 254:
+I=0.00A
+
+Question 255:
+P=1558.14W
+
+Question 256:
+U=0.00V
+
+Question 257:
+P=1323073800.00W
+
+Question 258:
+P=381225600.00W
+
+Question 259:
+U=1.68V
+
+Question 260:
+U=0.00V
+
+Question 261:
+I=35.67A
+
+Question 262:
+U=5407079646.02V
+
+Question 263:
+P=380793600000000.00W
+
+Question 264:
+I=31951280.55A
+
+Question 265:
+P=1454300800000.00W
+
+Question 266:
+P=1512019800.00W
+
+Question 267:
+P=465277.20W
+
+Question 268:
+I=0.06A
+
+Question 269:
+P=905297.10W
+
+Question 270:
+P=0.63W
+
+Question 271:
+I=37.45A
+
+Question 272:
+U=0.00V
+
+Question 273:
+P=0.26W
+
+Question 274:
+I=0.00A
+
+Question 275:
+U=0.00V
+
+Question 276:
+P=930997800.00W
+
+Question 277:
+P=609.69W
+
+Question 278:
+P=1307191200000.00W
+
+Question 279:
+P=622452200000000.00W
+
+Question 280:
+I=29476248.48A
+
+Question 281:
+P=1447573500000.00W
+
+Question 282:
+U=257100149.48V
+
+Question 283:
+P=1569.84W
+
+Question 284:
+U=662.81V
+
+Question 285:
+U=4774647.89V
+
+Question 286:
+I=0.03A
+
+Question 287:
+I=0.00A
+
+Question 288:
+P=1233.17W
+
+Question 289:
+P=1188084800000.00W
+
+Question 290:
+I=0.00A
+
+Question 291:
+I=0.00A
+
+Question 292:
+P=956366400.00W
+
+Question 293:
+P=1083422900.00W
+
+Question 294:
+U=0.00V
+
+Question 295:
+U=0.00V
+
+Question 296:
+I=0.00A
+
+Question 297:
+I=0.00A
+
+Question 298:
+P=509865000.00W
+
+Question 299:
+U=0.00V
+
+Question 300:
+U=0.00V
+
+Question 301:
+P=651735.00W
+
+Question 302:
+I=0.04A
+
+Question 303:
+U=0.99V
+
+Question 304:
+U=0.32V
+
+Question 305:
+U=1484288354.90V
+
+Question 306:
+I=0.05A
+
+Question 307:
+P=1464.22W
+
+Question 308:
+U=1097412.48V
+
+Question 309:
+U=0.90V
+
+Question 310:
+U=0.00V
+
+Question 311:
+P=1525.62W
+
+Question 312:
+I=0.01A
+
+Question 313:
+P=124396800.00W
+
+Question 314:
+P=756001700000000.00W
+
+Question 315:
+U=0.00V
+
+Question 316:
+U=998.55V
+
+Question 317:
+U=531.98V
+
+Question 318:
+U=0.00V
+
+Question 319:
+I=75.59A
+
+Question 320:
+P=693630000.00W
+
+Question 321:
+U=1.00V
+
+Question 322:
+U=3279.28V
+
+Question 323:
+I=53.63A
+
+Question 324:
+P=1950684400000000.00W
+
+Question 325:
+P=588688400.00W
+
+Question 326:
+I=0.00A
+
+Question 327:
+U=128172588.83V
+
+Question 328:
+I=32.72A
+
+Question 329:
+P=1821062200000.00W
+
+Question 330:
+U=0.00V
+
+Question 331:
+I=0.00A
+
+Question 332:
+P=209781600.00W
+
+Question 333:
+P=1080816300000.00W
+
+Question 334:
+U=0.01V
+
+Question 335:
+P=509846.70W
+
+Question 336:
+P=733.88W
+
+Question 337:
+U=0.00V
+
+Question 338:
+P=395840100000000.00W
+
+Question 339:
+P=487894000000000.00W
+
+Question 340:
+U=783.63V
+
+Question 341:
+U=209537.57V
+
+Question 342:
+U=0.89V
+
+Question 343:
+P=961.84W
+
+Question 344:
+P=736.74W
+
+Question 345:
+I=0.00A
+
+Question 346:
+U=1.81V
+
+Question 347:
+I=0.04A
+
+Question 348:
+I=0.00A
+
+Question 349:
+P=875.29W
+
+Question 350:
+P=883816500000000.00W
+
+Question 351:
+P=1505573.00W
+
+Question 352:
+U=0.00V
+
+Question 353:
+U=0.93V
+
+Question 354:
+U=0.00V
+
+Question 355:
+P=608572800000.00W
+
+Question 356:
+I=0.05A
+
+Question 357:
+I=31.80A
+
+Question 358:
+I=0.00A
+
+Question 359:
+P=885403600.00W
+
+Question 360:
+U=0.55V
+
+Question 361:
+P=0.00W
+
+Question 362:
+P=723622200.00W
+
+Question 363:
+P=255.65W
+
+Question 364:
+P=972048.00W
+
+Question 365:
+P=1727729.10W
+
+Question 366:
+P=442.65W
+
+Question 367:
+P=603351.90W
+
+Question 368:
+U=0.00V
+
+Question 369:
+U=0.12V
+
+Question 370:
+I=57186.50A
+
+Question 371:
+I=0.00A
+
+Question 372:
+I=23.44A
+
+Question 373:
+P=1186455000.00W
+
+Question 374:
+U=1.25V
+
+Question 375:
+P=299.37W
+
+Question 376:
+U=1137328339.58V
+
+Question 377:
+U=0.57V
+
+Question 378:
+U=956.68V
+
+Question 379:
+I=0.04A
+
+Question 380:
+U=640419.95V
+
+Question 381:
+I=0.07A
+
+Question 382:
+U=0.28V
+
+Question 383:
+I=11.14A
+
+Question 384:
+I=0.00A
+
+Question 385:
+P=314820.00W
+
+Question 386:
+P=1017.17W
+
+Question 387:
+P=1792775.20W
+
+Question 388:
+I=37753.56A
+
+Question 389:
+P=1884685.20W
+
+Question 390:
+U=0.00V
+
+Question 391:
+I=27.93A
+
+Question 392:
+U=0.46V
+
+Question 393:
+U=1132.62V
+
+Question 394:
+I=0.05A
+
+Question 395:
+U=0.00V
+
+Question 396:
+P=805850000000.00W
+
+Question 397:
+P=1312423.50W
+
+Question 398:
+U=0.98V
+
+Question 399:
+I=12068810.23A
+
+Question 400:
+U=0.00V
+
+Question 401:
+U=1185858.59V
+
+Question 402:
+I=0.03A
+
+Question 403:
+P=925131500000.00W
+
+Question 404:
+P=1527246000000000.00W
+
+Question 405:
+P=1010231300000.00W
+
+Question 406:
+I=0.00A
+
+Question 407:
+P=0.51W
+
+Question 408:
+P=439348800.00W
+
+Question 409:
+P=1235612.90W
+
+Question 410:
+I=0.00A
+
+Question 411:
+P=2264616300000000.00W
+
+Question 412:
+U=0.30V
+
+Question 413:
+P=1133196800.00W
+
+Question 414:
+P=1148806.50W
+
+Question 415:
+P=1047385.80W
+
+Question 416:
+I=0.06A
+
+Question 417:
+I=0.04A
+
+Question 418:
+P=1461.49W
+
+Question 419:
+I=60737736.58A
+
+Question 420:
+P=0.00W
+
+Question 421:
+I=0.00A
+
+Question 422:
+I=67486.98A
+
+Question 423:
+P=1396882700.00W
+
+Question 424:
+P=1.89W
+
+Question 425:
+I=8.95A
+
+Question 426:
+U=0.00V
+
+Question 427:
+U=0.00V
+
+Question 428:
+P=0.00W
+
+Question 429:
+U=1220505.62V
+
+Question 430:
+I=51659.74A
+
+Question 431:
+U=985.65V
+
+Question 432:
+I=0.02A
+
+Question 433:
+U=0.00V
+
+Question 434:
+P=449.29W
+
+Question 435:
+U=1.16V
+
+Question 436:
+I=50.58A
+
+Question 437:
+P=0.78W
+
+Question 438:
+I=12216.82A
+
+Question 439:
+U=3.12V
+
+Question 440:
+P=0.71W
+
+Question 441:
+U=0.00V
+
+Question 442:
+U=1102163461.54V
+
+Question 443:
+P=0.00W
+
+Question 444:
+P=399.82W
+
+Question 445:
+P=487051.20W
+
+Question 446:
+U=1166869.67V
+
+Question 447:
+P=1814776800000.00W
+
+Question 448:
+U=0.00V
+
+Question 449:
+U=0.00V
+
+Question 450:
+U=544.34V
+
+Question 451:
+I=0.00A
+
+Question 452:
+I=15949.57A
+
+Question 453:
+U=1298.13V
+
+Question 454:
+U=1515.57V
+
+Question 455:
+U=2084.82V
+
+Question 456:
+I=33.77A
+
+Question 457:
+P=597105000.00W
+
+Question 458:
+I=23.14A
+
+Question 459:
+U=676156583.63V
+
+Question 460:
+P=530.16W
+
+Question 461:
+I=0.00A
+
+Question 462:
+P=2044622200.00W
+
+Question 463:
+U=0.00V
+
+Question 464:
+U=0.00V
+
+Question 465:
+I=0.00A
+
+Question 466:
+U=0.89V
+
+Question 467:
+U=0.00V
+
+Question 468:
+P=1061.66W
+
+Question 469:
+P=588685500.00W
+
+Question 470:
+U=7972.22V
+
+Question 471:
+I=83068.94A
+
+Question 472:
+P=1369808000000.00W
+
+Question 473:
+U=0.00V
+
+Question 474:
+U=0.00V
+
+Question 475:
+I=0.04A
+
+Question 476:
+P=638776700000.00W
+
+Question 477:
+U=0.00V
+
+Question 478:
+I=0.06A
+
+Question 479:
+P=131.40W
+
+Question 480:
+U=1.49V
+
+Question 481:
+U=829.24V
+
+Question 482:
+P=743.73W
+
+Question 483:
+I=0.00A
+
+Question 484:
+I=18.54A
+
+Question 485:
+U=2082568.81V
+
+Question 486:
+P=1302174.50W
+
+Question 487:
+P=766290000000000.00W
+
+Question 488:
+P=1881117000.00W
+
+Question 489:
+U=0.00V
+
+Question 490:
+P=1082.05W
+
+Question 491:
+P=0.54W
+
+Question 492:
+P=1200650400.00W
+
+Question 493:
+U=0.00V
+
+Question 494:
+P=0.78W
+
+Question 495:
+U=1.42V
+
+Question 496:
+I=0.01A
+
+Question 497:
+P=0.00W
+
+Question 498:
+I=38.65A
+
+Question 499:
+I=0.00A
+
+Question 500:
+I=39.58A
+

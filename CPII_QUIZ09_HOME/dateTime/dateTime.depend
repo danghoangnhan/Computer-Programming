@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1592759640 source:e:\c\cpii_quiz09_home\datetime\main.cpp
+	<iostream>
+	"calendar.h"
+
+1592630058 e:\c\cpii_quiz09_home\datetime\include\time.h
+
+1592630574 e:\c\cpii_quiz09_home\datetime\include\datetime.h
+
+1592760894 e:\c\cpii_quiz09_home\datetime\include\calendar.h
+
+1592762675 source:e:\c\cpii_quiz09_home\datetime\src\calendar.cpp
+	"calendar.h"
+	<iostream>
+
+1592759232 e:\c\cpii_quiz09_home\datetime\calendar.h
+

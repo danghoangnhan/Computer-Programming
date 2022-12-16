@@ -1,0 +1,503 @@
+First Name   Last Name   Nick Name   Age   Gender   University                    Department
+----------------------------------------------------------------------------------------------------------------
+Benedict     Bryant      Scarlet      22     F      Oxford                        Mathematics
+Elizabeth    Buss        Bishop       19     F      Stanford                      Psychology
+Benedict     Bryant      Princess     23     F      UC Berkley                    Biology
+Alice        Evan        Mamba        34     M      Yale                          Mechanical Engineering
+Michael      Bryant      Spider       32     F      Fu Jen Cathlic                Electrical Engineering
+Cris         Bryant      Scarlet      33     M      Northwestern                  Psychology
+Tom          Stockton    Mamba        36     F      Princton                      Electrical Engineering
+Lebron       Bryant      Bishop       20     F      Yale                          Psychology
+Jane         Stockton    Scarlet      37     M      Northwestern                  Mathematics
+Jack         Olsen       Iron Man     19     M      Oxford                        Computer Science
+Michael      Stockton    The Rock     31     M      Hardvard                      Mathematics
+Judy         Stockton    Queen        28     F      UC Berkley                    Chemistry
+Lebron       Ann         Iron Man     34     F      Oxford                        Computer Science
+Robert       Evan        Pawn         35     M      Hardvard                      Chemistry
+John         Jordan      Mamba        37     F      Fu Jen Cathlic                Computer Science
+Tom          Stockton    Knight       20     M      Carnegie Mellon               Physics
+Alice        Jackson     Captain      28     F      Yale                          Physics
+Mary         Buss        Captain      25     M      Northwestern                  Biology
+Robert       Buss        Knight       18     M      Columbia                      Electrical Engineering
+Alice        Buss        Princess     29     F      Princton                      Physics
+John         Bryant      Mamba        28     F      Carnegie Mellon               Physics
+Elizabeth    Jordan      Mamba        23     M      Hardvard                      Mathematics
+Judy         Ann         Captain      18     M      Northwestern                  Chemistry
+Robert       Olsen       Spider       38     F      Princton                      Physics
+Jack         Evan        Iron Man     34     M      Oxford                        Mechanical Engineering
+Jim          Olsen       Prince       21     M      Stanford                      Mathematics
+Jim          Levy        Mamba        34     M      Cornell                       Biology
+Jane         Ann         Pawn         33     F      Northwestern                  Electrical Engineering
+Michael      Jordan      Pawn         33     F      Cornell                       Biology
+Jerry        Ann         Bishop       23     M      Columbia                      Biology
+Mary         Jackson     Prince       36     F      Hardvard                      Psychology
+Jim          Stockton    Mamba        20     F      Columbia                      Biology
+Cris         Olsen       Mamba        35     M      Cornell                       Mathematics
+John         Jordan      Queen        36     F      UC Berkley                    Mathematics
+Tom          Jackson     Queen        24     M      Carnegie Mellon               Mathematics
+Kobe         Downey      Pawn         38     F      Hardvard                      Chemistry
+Mary         Downey      Mamba        32     M      Hardvard                      Psychology
+John         Holland     Rook         34     M      Carnegie Mellon               Mathematics
+Jack         Downey      Iron Man     36     F      UC Berkley                    Mechanical Engineering
+Jim          Bryant      Spider       19     M      Cambridge                     Electrical Engineering
+Jim          Olsen       God          32     F      Princton                      Chemistry
+Benedict     Evan        Princess     35     M      Yale                          Electrical Engineering
+Cris         Ann         Bishop       33     F      Carnegie Mellon               Computer Science
+John         Jackson     Rook         30     F      Hardvard                      Electrical Engineering
+John         Ann         Princess     23     M      Yale                          Psychology
+Robert       Levy        Iron Man     30     F      Stanford                      Electrical Engineering
+Tom          Holland     Pawn         29     F      Oxford                        Mathematics
+Benedict     Ann         King         30     M      Fu Jen Cathlic                Electrical Engineering
+Lebron       Levy        Knight       22     F      Princton                      Physics
+Jim          Olsen       Queen        33     F      Carnegie Mellon               Mechanical Engineering
+John         Buss        God          32     F      Oxford                        Mechanical Engineering
+Elizabeth    Holland     Iron Man     33     M      Stanford                      Chemistry
+Alice        Bryant      Rook         30     F      Cornell                       Chemistry
+Michael      Jordan      Prince       25     F      Columbia                      Mathematics
+Cris         Evan        King         33     M      Northwestern                  Chemistry
+Benedict     Jordan      Scarlet      40     M      Fu Jen Cathlic                Chemistry
+Lebron       Bryant      Pawn         28     F      Stanford                      Mathematics
+John         Holland     The Rock     33     M      Cornell                       Physics
+Elizabeth    Ann         Queen        32     M      Princton                      Biology
+John         Levy        Scarlet      24     M      Carnegie Mellon               Electrical Engineering
+Jerry        Olsen       Captain      34     F      Northwestern                  Mechanical Engineering
+Elizabeth    Evan        Knight       18     M      Northwestern                  Computer Science
+Judy         Evan        The Rock     24     F      Carnegie Mellon               Biology
+Mary         Ann         Spider       35     M      Cornell                       Mathematics
+Robert       Olsen       Bishop       27     M      Columbia                      Chemistry
+Elizabeth    Levy        Knight       27     F      Princton                      Mechanical Engineering
+Tom          Olsen       Bishop       32     M      Cambridge                     Mechanical Engineering
+Michael      Buss        Spider       34     F      UC Berkley                    Psychology
+Jerry        James       Prince       21     M      Columbia                      Electrical Engineering
+Kobe         Stockton    Bishop       21     F      Stanford                      Computer Science
+Kobe         Ann         Spider       30     F      Cornell                       Physics
+Judy         Levy        The Rock     40     M      Columbia                      Mechanical Engineering
+Michael      Buss        Iron Man     38     F      Northwestern                  Physics
+Mary         James       Bishop       30     F      Cornell                       Psychology
+Michael      Jordan      Captain      21     M      Columbia                      Electrical Engineering
+Kobe         Jordan      Captain      40     F      Northwestern                  Computer Science
+Judy         Ann         Rook         20     F      Princton                      Physics
+Jack         Olsen       Mamba        39     M      Stanford                      Mechanical Engineering
+Robert       Olsen       Princess     36     M      Columbia                      Biology
+Jim          Olsen       Knight       34     F      Fu Jen Cathlic                Electrical Engineering
+Benedict     Downey      Scarlet      31     M      Hardvard                      Physics
+Mary         Stockton    God          34     F      Cambridge                     Physics
+Jim          Jordan      Scarlet      26     M      Northwestern                  Electrical Engineering
+Jack         Ann         Scarlet      25     M      Stanford                      Physics
+Lebron       Bryant      Rook         40     F      Princton                      Psychology
+Mary         Levy        Queen        33     M      Fu Jen Cathlic                Biology
+Jim          Downey      Prince       18     F      Hardvard                      Chemistry
+Elizabeth    Holland     Pawn         40     M      Princton                      Electrical Engineering
+John         Evan        Spider       33     M      Stanford                      Computer Science
+Benedict     Evan        Mamba        29     M      Stanford                      Physics
+Kobe         Downey      Spider       26     F      Stanford                      Computer Science
+Michael      Olsen       Queen        24     F      Cornell                       Physics
+Jerry        Ann         Queen        30     F      Oxford                        Computer Science
+Robert       Jordan      Knight       25     M      Carnegie Mellon               Chemistry
+Benedict     Stockton    Princess     29     F      Fu Jen Cathlic                Psychology
+Lebron       Olsen       Queen        31     F      Cornell                       Electrical Engineering
+Mary         Holland     Mamba        29     F      Oxford                        Mechanical Engineering
+Judy         Jordan      God          26     F      Northwestern                  Electrical Engineering
+John         Jackson     Mamba        28     F      Carnegie Mellon               Biology
+Jerry        Jordan      King         36     F      Oxford                        Biology
+Elizabeth    Jackson     King         31     F      Fu Jen Cathlic                Chemistry
+Tom          Bryant      Rook         31     F      Carnegie Mellon               Biology
+Tom          Bryant      Princess     40     F      UC Berkley                    Mechanical Engineering
+Michael      Bryant      Mamba        19     M      Fu Jen Cathlic                Computer Science
+Elizabeth    Jordan      Princess     39     F      Columbia                      Chemistry
+Kobe         Olsen       Pawn         22     M      Carnegie Mellon               Psychology
+Benedict     Ann         Knight       20     F      Columbia                      Biology
+John         Jordan      Bishop       31     M      Stanford                      Mechanical Engineering
+Elizabeth    James       Iron Man     28     M      Oxford                        Computer Science
+Kobe         Buss        Mamba        19     F      Northwestern                  Biology
+Mary         Jordan      The Rock     40     M      Cambridge                     Psychology
+Cris         Downey      King         25     F      Yale                          Physics
+Lebron       Evan        Queen        39     F      Fu Jen Cathlic                Chemistry
+Cris         Buss        Captain      32     F      Columbia                      Mechanical Engineering
+Alice        Levy        God          32     F      Fu Jen Cathlic                Physics
+Elizabeth    Holland     Prince       18     M      Cambridge                     Biology
+John         Buss        Prince       23     M      Hardvard                      Psychology
+John         Downey      Knight       27     M      Cornell                       Psychology
+Alice        Evan        The Rock     37     M      Cornell                       Mechanical Engineering
+Mary         Evan        Knight       40     F      Oxford                        Physics
+Jack         Jackson     Princess     27     F      Oxford                        Computer Science
+Jim          Buss        Prince       40     M      Cornell                       Mathematics
+Jack         Bryant      Captain      22     M      Yale                          Physics
+Jerry        Stockton    Iron Man     20     M      Columbia                      Chemistry
+Judy         Stockton    Knight       38     M      Hardvard                      Physics
+Elizabeth    Levy        Bishop       32     M      Oxford                        Mechanical Engineering
+Judy         Holland     Scarlet      34     M      Cornell                       Mathematics
+Tom          Evan        The Rock     30     M      Northwestern                  Mechanical Engineering
+Jerry        Jordan      King         37     F      UC Berkley                    Chemistry
+Jim          Evan        Captain      38     F      Cambridge                     Physics
+Michael      Downey      Mamba        28     F      Cambridge                     Physics
+Jim          Ann         Spider       20     F      Hardvard                      Electrical Engineering
+Jack         Buss        Spider       34     F      Fu Jen Cathlic                Mechanical Engineering
+Benedict     Bryant      Pawn         38     F      Stanford                      Electrical Engineering
+Tom          Olsen       God          39     F      Cambridge                     Psychology
+Robert       James       Prince       31     M      Hardvard                      Chemistry
+Jim          Buss        Scarlet      21     M      Princton                      Biology
+Judy         Levy        Bishop       39     M      Yale                          Mechanical Engineering
+Benedict     Olsen       Iron Man     26     F      UC Berkley                    Electrical Engineering
+Elizabeth    Levy        Mamba        23     M      Columbia                      Computer Science
+Kobe         Holland     Bishop       31     F      Princton                      Physics
+Robert       Ann         The Rock     34     F      Fu Jen Cathlic                Mathematics
+Judy         Holland     God          37     M      Yale                          Psychology
+Cris         Downey      Scarlet      22     F      Fu Jen Cathlic                Computer Science
+Alice        James       Iron Man     33     F      Cornell                       Mechanical Engineering
+Michael      Stockton    King         19     M      Carnegie Mellon               Biology
+Elizabeth    Jordan      Prince       39     F      Columbia                      Biology
+Jerry        James       Pawn         21     M      Northwestern                  Psychology
+Benedict     Jackson     Iron Man     37     M      Stanford                      Mechanical Engineering
+Lebron       Evan        Queen        22     M      Columbia                      Physics
+Lebron       Ann         God          22     F      Fu Jen Cathlic                Biology
+Michael      Evan        Scarlet      21     M      Yale                          Biology
+Elizabeth    Bryant      Mamba        28     F      Hardvard                      Mathematics
+Alice        Buss        Queen        32     M      Fu Jen Cathlic                Computer Science
+Judy         Holland     Rook         36     M      Cambridge                     Chemistry
+Michael      Olsen       The Rock     28     F      Oxford                        Computer Science
+Tom          Olsen       Princess     39     M      Cambridge                     Computer Science
+Judy         Evan        King         40     F      Cornell                       Mathematics
+John         Jordan      Pawn         40     M      Cornell                       Computer Science
+Jerry        Buss        The Rock     39     M      Carnegie Mellon               Chemistry
+Elizabeth    Buss        Bishop       31     M      Yale                          Mathematics
+Kobe         Downey      The Rock     39     F      Cambridge                     Computer Science
+Jack         James       The Rock     29     F      Fu Jen Cathlic                Physics
+Alice        Stockton    Prince       26     F      Fu Jen Cathlic                Electrical Engineering
+Judy         Evan        Rook         24     F      Fu Jen Cathlic                Physics
+Lebron       James       Prince       30     F      Princton                      Physics
+Benedict     Ann         Spider       19     M      Columbia                      Computer Science
+Cris         Stockton    The Rock     39     F      Cornell                       Chemistry
+Lebron       James       Iron Man     23     F      UC Berkley                    Mathematics
+Jane         Levy        Iron Man     27     F      Princton                      Electrical Engineering
+Judy         Holland     Iron Man     27     F      Carnegie Mellon               Computer Science
+Elizabeth    Stockton    Prince       26     M      Cambridge                     Electrical Engineering
+Jim          Stockton    Spider       23     M      Cambridge                     Mechanical Engineering
+Jack         Buss        Rook         18     F      Columbia                      Computer Science
+Michael      Bryant      Captain      32     M      Cornell                       Mathematics
+Kobe         Ann         Prince       21     F      Columbia                      Psychology
+Benedict     Stockton    Captain      37     M      Fu Jen Cathlic                Biology
+Jack         Stockton    King         29     F      UC Berkley                    Computer Science
+Jack         Downey      Mamba        40     M      Cambridge                     Biology
+Jack         Ann         Knight       36     M      Carnegie Mellon               Mathematics
+Michael      Jackson     Rook         23     F      Cornell                       Mechanical Engineering
+Elizabeth    Downey      Knight       39     M      Cambridge                     Computer Science
+Robert       Ann         Mamba        37     M      Oxford                        Mechanical Engineering
+Robert       Buss        God          27     F      Oxford                        Mathematics
+Judy         Stockton    Mamba        31     F      UC Berkley                    Mechanical Engineering
+Robert       Olsen       Pawn         33     F      Hardvard                      Biology
+Benedict     Ann         Pawn         28     M      Stanford                      Mechanical Engineering
+John         Buss        Rook         34     F      Stanford                      Chemistry
+Cris         Bryant      Princess     38     M      Hardvard                      Electrical Engineering
+Benedict     Stockton    Spider       21     F      Columbia                      Computer Science
+Alice        James       Iron Man     32     F      Carnegie Mellon               Chemistry
+Elizabeth    Olsen       Iron Man     25     F      Carnegie Mellon               Biology
+Jane         Bryant      Prince       22     M      Hardvard                      Mathematics
+Jack         James       King         32     M      Northwestern                  Chemistry
+Judy         Ann         Pawn         29     M      Fu Jen Cathlic                Computer Science
+Cris         Evan        God          36     F      Northwestern                  Physics
+Tom          Stockton    Spider       21     M      Columbia                      Chemistry
+Jim          Bryant      Knight       33     M      Stanford                      Psychology
+Judy         Bryant      Knight       24     F      Cornell                       Chemistry
+Mary         Olsen       Spider       31     M      Columbia                      Biology
+Jack         Levy        Spider       37     M      Cornell                       Computer Science
+Benedict     Ann         Bishop       25     M      Princton                      Computer Science
+Kobe         Ann         Prince       19     F      Stanford                      Biology
+Benedict     Stockton    The Rock     27     M      Princton                      Psychology
+Tom          Holland     Knight       32     M      Fu Jen Cathlic                Physics
+Robert       Ann         Mamba        23     M      Oxford                        Biology
+Jane         Holland     Queen        36     M      Stanford                      Mechanical Engineering
+Jane         Olsen       Prince       18     F      Stanford                      Physics
+Lebron       Holland     God          24     M      Stanford                      Chemistry
+Jane         Bryant      King         22     F      UC Berkley                    Physics
+Jack         Jackson     The Rock     22     M      Northwestern                  Chemistry
+Benedict     Downey      Bishop       39     M      UC Berkley                    Computer Science
+Kobe         Ann         Rook         29     M      Cambridge                     Mechanical Engineering
+Tom          James       Knight       39     F      Oxford                        Chemistry
+Jerry        Downey      God          32     M      Carnegie Mellon               Chemistry
+Judy         James       Iron Man     22     F      Cornell                       Biology
+Cris         Olsen       Mamba        25     F      Oxford                        Computer Science
+Judy         Evan        Captain      29     M      Stanford                      Psychology
+Elizabeth    Stockton    Knight       24     M      Oxford                        Mathematics
+Jack         Levy        Queen        18     M      Cambridge                     Physics
+John         Levy        Queen        38     F      Princton                      Computer Science
+Judy         Stockton    Mamba        26     F      Stanford                      Chemistry
+Cris         Downey      Iron Man     34     M      Oxford                        Psychology
+Tom          Ann         God          39     F      Stanford                      Mechanical Engineering
+Jack         Bryant      Scarlet      22     M      Yale                          Psychology
+Robert       Stockton    King         27     M      Cornell                       Biology
+Kobe         Evan        King         22     F      Fu Jen Cathlic                Mechanical Engineering
+John         Jordan      The Rock     24     F      Hardvard                      Mathematics
+Elizabeth    Jackson     God          18     F      Hardvard                      Biology
+John         James       Bishop       39     F      Hardvard                      Chemistry
+Kobe         Olsen       Iron Man     32     M      Columbia                      Chemistry
+Benedict     Levy        Rook         30     F      Yale                          Chemistry
+Robert       Levy        Pawn         27     M      Princton                      Electrical Engineering
+Michael      James       Knight       23     M      Columbia                      Mechanical Engineering
+Jim          Jordan      Pawn         32     F      Cambridge                     Chemistry
+Robert       Holland     Knight       30     F      Oxford                        Physics
+Jim          Bryant      Spider       25     M      Cambridge                     Computer Science
+Elizabeth    Downey      Queen        40     F      Columbia                      Psychology
+Jerry        Jackson     Queen        25     F      UC Berkley                    Mathematics
+Elizabeth    James       Knight       24     F      Northwestern                  Psychology
+Lebron       Holland     Iron Man     33     F      Hardvard                      Mathematics
+John         Jordan      Rook         26     M      Princton                      Physics
+Lebron       Stockton    God          37     M      Stanford                      Biology
+Tom          Downey      Captain      29     M      Carnegie Mellon               Computer Science
+Judy         Bryant      Pawn         18     M      Columbia                      Mechanical Engineering
+Elizabeth    Downey      Iron Man     33     F      UC Berkley                    Mathematics
+Benedict     Jackson     Scarlet      39     F      Columbia                      Physics
+Kobe         James       Prince       32     M      Cornell                       Physics
+Michael      James       Scarlet      27     M      Northwestern                  Mechanical Engineering
+Michael      Levy        Mamba        40     F      Fu Jen Cathlic                Mechanical Engineering
+Jane         Levy        Spider       30     M      Northwestern                  Computer Science
+Jane         James       Iron Man     40     F      Cornell                       Electrical Engineering
+Judy         Holland     God          27     F      Columbia                      Computer Science
+Elizabeth    Stockton    The Rock     31     F      Hardvard                      Mechanical Engineering
+Jerry        Jordan      Rook         25     F      UC Berkley                    Psychology
+Benedict     Stockton    Rook         20     M      Northwestern                  Physics
+John         Olsen       Prince       23     F      Carnegie Mellon               Mechanical Engineering
+Jim          Olsen       God          40     F      Yale                          Computer Science
+Mary         Olsen       God          23     M      Northwestern                  Computer Science
+Kobe         Jackson     Captain      39     F      Princton                      Biology
+Jane         Holland     God          20     F      Fu Jen Cathlic                Computer Science
+Jane         Olsen       God          27     F      Cambridge                     Computer Science
+Robert       Olsen       King         25     F      UC Berkley                    Biology
+Tom          Holland     Spider       30     M      Yale                          Chemistry
+Alice        Olsen       Captain      19     M      Carnegie Mellon               Mechanical Engineering
+Jack         Evan        Queen        25     M      Princton                      Computer Science
+Cris         Bryant      The Rock     30     F      Cornell                       Physics
+Mary         Levy        Iron Man     28     F      Oxford                        Computer Science
+Kobe         James       Queen        24     F      Fu Jen Cathlic                Computer Science
+Mary         Evan        Queen        22     M      Columbia                      Chemistry
+Robert       Downey      Scarlet      40     F      Cornell                       Psychology
+Robert       Jordan      Knight       26     F      Oxford                        Physics
+John         Holland     Rook         22     F      Princton                      Mechanical Engineering
+Michael      James       Scarlet      31     F      UC Berkley                    Computer Science
+John         Evan        The Rock     20     M      Princton                      Mathematics
+Alice        Bryant      Captain      38     M      Cornell                       Mathematics
+Robert       Jordan      Iron Man     37     F      Yale                          Psychology
+Jack         Bryant      Knight       32     F      Cambridge                     Mechanical Engineering
+Benedict     Olsen       The Rock     40     F      Fu Jen Cathlic                Chemistry
+Jim          Stockton    Princess     26     F      Carnegie Mellon               Mathematics
+Kobe         Jordan      Queen        21     F      Columbia                      Mathematics
+Alice        Jackson     Pawn         24     M      Stanford                      Psychology
+Jack         Ann         Knight       26     F      Oxford                        Psychology
+Jerry        Stockton    Pawn         34     F      Yale                          Electrical Engineering
+Jack         Downey      Iron Man     21     M      Cambridge                     Biology
+Robert       Stockton    Queen        25     M      UC Berkley                    Mathematics
+Elizabeth    Levy        The Rock     22     M      Fu Jen Cathlic                Psychology
+Jack         Jackson     Mamba        25     M      Oxford                        Electrical Engineering
+Tom          Stockton    Queen        27     M      Fu Jen Cathlic                Psychology
+Jim          Holland     God          18     F      Hardvard                      Psychology
+Robert       Stockton    Scarlet      28     M      UC Berkley                    Physics
+Tom          Olsen       Rook         30     F      Hardvard                      Physics
+Mary         James       Prince       32     M      Princton                      Electrical Engineering
+Mary         Olsen       Bishop       38     F      Cambridge                     Mechanical Engineering
+Judy         Buss        Spider       37     F      Yale                          Physics
+Jerry        Olsen       Princess     24     F      Yale                          Computer Science
+Cris         Ann         Princess     37     M      Fu Jen Cathlic                Biology
+Michael      Jackson     Knight       34     F      Fu Jen Cathlic                Mathematics
+Mary         Downey      Prince       27     M      Northwestern                  Electrical Engineering
+Judy         Bryant      Iron Man     23     F      Cornell                       Biology
+Kobe         Levy        Queen        32     F      Northwestern                  Psychology
+Jim          Jordan      Iron Man     31     M      UC Berkley                    Electrical Engineering
+Kobe         Evan        Knight       29     F      Fu Jen Cathlic                Psychology
+Jim          Evan        King         27     F      Princton                      Chemistry
+Jane         Holland     Queen        33     M      Columbia                      Chemistry
+Robert       Evan        Captain      23     M      Oxford                        Electrical Engineering
+John         Evan        Queen        40     F      Fu Jen Cathlic                Computer Science
+Michael      Olsen       Knight       19     F      Stanford                      Psychology
+Jim          James       Pawn         37     M      Stanford                      Psychology
+Kobe         James       Mamba        28     F      Columbia                      Mechanical Engineering
+Jack         Bryant      Knight       39     F      Columbia                      Psychology
+Robert       Ann         Iron Man     26     M      Cambridge                     Psychology
+Alice        Downey      Princess     32     M      Cambridge                     Biology
+Jim          Bryant      Rook         35     M      Hardvard                      Mathematics
+John         Holland     Pawn         37     M      Northwestern                  Mathematics
+John         James       Iron Man     33     M      Hardvard                      Physics
+Tom          Downey      Rook         39     F      Fu Jen Cathlic                Psychology
+Elizabeth    James       Pawn         24     F      Cambridge                     Computer Science
+Benedict     Evan        Prince       27     M      Fu Jen Cathlic                Chemistry
+Judy         Holland     Spider       35     F      UC Berkley                    Physics
+Lebron       James       God          34     F      UC Berkley                    Mathematics
+Kobe         Buss        Bishop       20     F      Oxford                        Chemistry
+Judy         Buss        Prince       29     F      Fu Jen Cathlic                Physics
+Jerry        Jackson     Mamba        19     F      Cambridge                     Biology
+Judy         Buss        Pawn         37     M      Northwestern                  Electrical Engineering
+Jane         Evan        Queen        40     M      Columbia                      Mathematics
+Cris         Bryant      Rook         34     M      Yale                          Computer Science
+Lebron       Evan        Captain      28     M      Hardvard                      Psychology
+Jane         Stockton    Mamba        24     M      Hardvard                      Mechanical Engineering
+Tom          Evan        Mamba        30     M      Oxford                        Electrical Engineering
+Jim          Ann         Mamba        38     F      Carnegie Mellon               Electrical Engineering
+Lebron       Bryant      Iron Man     20     M      Cornell                       Biology
+Judy         Jackson     Captain      31     M      Northwestern                  Biology
+Lebron       Jordan      Princess     40     F      Cambridge                     Mechanical Engineering
+Jerry        Downey      Princess     28     F      Stanford                      Mathematics
+Jack         Stockton    Rook         21     F      Columbia                      Mathematics
+Jane         Stockton    Knight       18     M      Stanford                      Computer Science
+Kobe         Buss        Queen        35     F      Carnegie Mellon               Chemistry
+Jerry        Jordan      Knight       22     F      Yale                          Psychology
+Jack         Buss        God          32     F      Cambridge                     Biology
+Kobe         Downey      Prince       19     M      Cornell                       Chemistry
+Judy         Buss        Princess     37     M      Cambridge                     Mathematics
+Elizabeth    Jackson     Queen        27     F      Hardvard                      Biology
+Judy         Olsen       God          36     M      Hardvard                      Chemistry
+Lebron       Downey      Spider       36     M      Oxford                        Mathematics
+Benedict     Bryant      Princess     31     F      Columbia                      Biology
+Benedict     Ann         Mamba        19     F      Yale                          Physics
+Kobe         James       Knight       27     M      Northwestern                  Chemistry
+Judy         Ann         Prince       27     F      Princton                      Electrical Engineering
+Jerry        Evan        Prince       39     F      Northwestern                  Psychology
+Jane         Buss        Iron Man     36     F      Cambridge                     Computer Science
+John         Olsen       Iron Man     36     M      Northwestern                  Mechanical Engineering
+Cris         Bryant      Pawn         34     M      Princton                      Mathematics
+Tom          Downey      Pawn         35     F      Columbia                      Psychology
+Tom          Buss        Prince       32     F      Yale                          Biology
+Cris         Evan        Scarlet      30     M      Yale                          Biology
+Jack         Olsen       Captain      30     M      Cambridge                     Physics
+Jack         Bryant      Scarlet      40     F      Stanford                      Mathematics
+Jack         Evan        Captain      37     M      Hardvard                      Electrical Engineering
+Elizabeth    Olsen       Princess     26     M      Yale                          Mechanical Engineering
+Michael      Stockton    Pawn         22     F      Stanford                      Mechanical Engineering
+Jim          James       Iron Man     27     M      Cambridge                     Electrical Engineering
+Elizabeth    Bryant      Princess     37     M      Stanford                      Physics
+Elizabeth    Buss        Captain      19     F      Oxford                        Biology
+John         Evan        Princess     37     F      Cornell                       Electrical Engineering
+Michael      Jordan      King         33     M      Cambridge                     Biology
+Jack         Bryant      God          29     F      Columbia                      Electrical Engineering
+Jim          Buss        Prince       21     M      Cambridge                     Mathematics
+Cris         Stockton    The Rock     32     F      Hardvard                      Computer Science
+Jane         Stockton    The Rock     27     F      Fu Jen Cathlic                Mathematics
+Benedict     Olsen       Pawn         40     M      Stanford                      Chemistry
+Robert       Stockton    The Rock     26     F      Oxford                        Physics
+Elizabeth    James       Pawn         20     M      Oxford                        Physics
+Jane         Holland     Bishop       18     F      Carnegie Mellon               Chemistry
+Jane         Jackson     Rook         22     F      Stanford                      Psychology
+Mary         Downey      Captain      40     F      Stanford                      Psychology
+Kobe         Ann         Spider       39     M      UC Berkley                    Electrical Engineering
+John         Stockton    Pawn         24     M      UC Berkley                    Mechanical Engineering
+Jack         Holland     Princess     37     M      Columbia                      Electrical Engineering
+Alice        Jordan      Pawn         18     F      UC Berkley                    Computer Science
+John         Jordan      King         28     F      Northwestern                  Electrical Engineering
+Cris         Ann         Captain      31     F      Yale                          Electrical Engineering
+Michael      Evan        King         30     M      Hardvard                      Electrical Engineering
+Cris         Holland     Iron Man     30     F      UC Berkley                    Biology
+Judy         Jackson     God          35     M      UC Berkley                    Psychology
+Elizabeth    Buss        Bishop       27     M      Cornell                       Computer Science
+Michael      James       Spider       35     M      UC Berkley                    Psychology
+Tom          Ann         Iron Man     26     M      Fu Jen Cathlic                Physics
+Cris         Evan        God          35     F      Cornell                       Physics
+Jim          Buss        Bishop       22     M      Hardvard                      Mechanical Engineering
+John         Olsen       Queen        28     F      Carnegie Mellon               Biology
+Kobe         James       Captain      30     F      Oxford                        Psychology
+Robert       Downey      Mamba        25     M      Northwestern                  Biology
+Mary         Levy        Iron Man     40     M      Yale                          Mathematics
+Jim          Jackson     The Rock     33     F      UC Berkley                    Chemistry
+Lebron       Levy        Queen        28     F      Northwestern                  Computer Science
+Lebron       Stockton    Prince       22     F      Princton                      Mechanical Engineering
+Jane         Holland     Rook         25     F      Cornell                       Biology
+Elizabeth    Holland     Captain      23     M      Stanford                      Biology
+Michael      Jackson     Knight       34     M      Princton                      Chemistry
+Jerry        Holland     Prince       22     F      Cornell                       Computer Science
+Elizabeth    Bryant      Knight       30     F      UC Berkley                    Physics
+John         Levy        Bishop       35     F      Yale                          Chemistry
+Judy         Holland     Knight       20     M      Columbia                      Chemistry
+Benedict     Jackson     Prince       27     M      Cambridge                     Computer Science
+Tom          Evan        Captain      30     F      Carnegie Mellon               Computer Science
+Tom          James       Rook         25     M      Northwestern                  Physics
+Michael      Stockton    Mamba        22     M      Fu Jen Cathlic                Electrical Engineering
+Michael      Jackson     Knight       38     M      Hardvard                      Chemistry
+Jim          Jackson     Captain      23     M      Oxford                        Biology
+Lebron       Levy        Queen        24     F      Stanford                      Physics
+Mary         Buss        Prince       24     F      Cornell                       Chemistry
+Mary         Jackson     King         22     F      Cornell                       Chemistry
+Tom          Holland     Iron Man     36     F      Cornell                       Biology
+Cris         Downey      Knight       35     F      Fu Jen Cathlic                Chemistry
+Benedict     Bryant      Captain      29     F      Stanford                      Chemistry
+Jerry        Holland     Knight       35     M      Stanford                      Electrical Engineering
+Jim          Jordan      Pawn         22     M      Northwestern                  Biology
+Benedict     Buss        Princess     40     F      Cambridge                     Mathematics
+Tom          Downey      Iron Man     22     F      Oxford                        Mathematics
+Robert       Levy        Captain      33     F      Carnegie Mellon               Electrical Engineering
+Jim          Levy        Captain      34     M      Princton                      Computer Science
+Elizabeth    Stockton    Mamba        21     M      Stanford                      Biology
+Mary         Olsen       Captain      37     F      Princton                      Biology
+John         Downey      Bishop       33     M      UC Berkley                    Electrical Engineering
+Jack         Buss        Queen        27     F      Columbia                      Computer Science
+Mary         James       Prince       39     M      Carnegie Mellon               Biology
+Alice        Bryant      Knight       22     M      Columbia                      Physics
+Judy         Evan        Prince       33     M      UC Berkley                    Mathematics
+Jack         Buss        Queen        37     F      Cambridge                     Chemistry
+Jim          Downey      The Rock     20     M      Yale                          Electrical Engineering
+Judy         Holland     Scarlet      32     F      Fu Jen Cathlic                Physics
+Jane         Stockton    Knight       38     M      Fu Jen Cathlic                Physics
+Michael      Jackson     King         24     F      Stanford                      Mechanical Engineering
+Alice        Jordan      The Rock     33     M      Hardvard                      Electrical Engineering
+Alice        Holland     Iron Man     22     M      Columbia                      Physics
+Cris         Stockton    King         30     M      Northwestern                  Biology
+Tom          Jordan      Pawn         37     F      Yale                          Computer Science
+Jerry        Downey      Spider       24     M      Carnegie Mellon               Computer Science
+Cris         Ann         Knight       37     F      Northwestern                  Physics
+Mary         Evan        King         18     F      UC Berkley                    Mathematics
+Alice        Ann         Mamba        35     M      Cambridge                     Mathematics
+Robert       Levy        Rook         24     M      Northwestern                  Electrical Engineering
+Jane         Bryant      Prince       34     F      Carnegie Mellon               Physics
+John         Ann         Mamba        37     F      Northwestern                  Mathematics
+Alice        Downey      God          19     M      Oxford                        Chemistry
+Jack         Jackson     Prince       33     M      Oxford                        Mathematics
+Alice        Bryant      Spider       33     F      Oxford                        Mechanical Engineering
+Tom          Evan        Spider       28     F      Cambridge                     Mechanical Engineering
+Lebron       Downey      Captain      18     M      Hardvard                      Chemistry
+Tom          Holland     Mamba        38     F      Cornell                       Biology
+Elizabeth    Bryant      Pawn         19     F      Cornell                       Mathematics
+Jim          Levy        Bishop       40     F      Stanford                      Electrical Engineering
+Tom          Downey      Rook         39     M      UC Berkley                    Psychology
+John         Olsen       The Rock     30     M      UC Berkley                    Psychology
+Benedict     Stockton    God          23     M      UC Berkley                    Computer Science
+Benedict     Holland     Queen        18     F      Yale                          Electrical Engineering
+Lebron       James       Captain      31     F      Stanford                      Mechanical Engineering
+Cris         James       Pawn         34     M      Carnegie Mellon               Computer Science
+Mary         James       Rook         30     F      Fu Jen Cathlic                Psychology
+Lebron       Bryant      King         25     F      UC Berkley                    Physics
+Jerry        Bryant      Pawn         26     F      Princton                      Chemistry
+Mary         Jordan      The Rock     34     M      Columbia                      Mathematics
+Jack         Levy        Pawn         19     F      Princton                      Mechanical Engineering
+Cris         Holland     Captain      40     M      Fu Jen Cathlic                Psychology
+Jane         Stockton    Iron Man     21     F      Cornell                       Electrical Engineering
+Jack         Downey      Queen        40     F      Cambridge                     Chemistry
+Alice        Levy        The Rock     24     F      Oxford                        Biology
+Lebron       James       Mamba        34     F      Hardvard                      Electrical Engineering
+Benedict     Downey      King         26     F      UC Berkley                    Psychology
+Elizabeth    James       Iron Man     36     M      Northwestern                  Computer Science
+Kobe         James       Rook         23     M      Yale                          Biology
+Jim          Buss        God          24     M      Yale                          Physics
+Elizabeth    Jordan      Pawn         29     F      Princton                      Psychology
+Jack         Holland     Rook         33     M      Northwestern                  Physics
+Judy         James       Captain      18     F      Carnegie Mellon               Mechanical Engineering
+Judy         Jordan      King         20     F      Stanford                      Biology
+Jane         Stockton    Pawn         32     M      Fu Jen Cathlic                Mechanical Engineering
+Alice        Buss        Pawn         37     M      Northwestern                  Chemistry
+Tom          Jordan      Scarlet      21     F      Fu Jen Cathlic                Electrical Engineering
+Jane         Olsen       Pawn         20     F      Cambridge                     Biology
+Michael      Jordan      Iron Man     22     F      Carnegie Mellon               Computer Science
+Jane         Downey      Bishop       38     F      Oxford                        Mathematics
+Mary         Jackson     Queen        25     M      Fu Jen Cathlic                Computer Science
+Alice        James       Princess     31     M      Fu Jen Cathlic                Computer Science
+Jerry        Stockton    Scarlet      32     F      Oxford                        Psychology
+John         James       Queen        23     F      Hardvard                      Electrical Engineering
+Jane         Buss        Scarlet      38     M      Yale                          Computer Science
+Benedict     Stockton    Scarlet      25     F      Cornell                       Physics
+Elizabeth    Downey      Prince       37     F      Fu Jen Cathlic                Computer Science
+Lebron       Downey      The Rock     34     F      Cornell                       Mathematics
+Michael      Levy        Princess     24     M      Stanford                      Mathematics
+Jack         Holland     Prince       26     F      Yale                          Mathematics
+Robert       Jackson     Pawn         40     F      UC Berkley                    Electrical Engineering
+Robert       Olsen       Knight       38     M      Stanford                      Chemistry
+Judy         Bryant      Spider       40     M      Northwestern                  Chemistry
+Jack         Holland     Knight       26     F      Northwestern                  Mathematics
+Elizabeth    Stockton    Iron Man     29     M      Columbia                      Electrical Engineering
+Jerry        Ann         Scarlet      36     F      Stanford                      Chemistry
+Jim          Stockton    Scarlet      23     F      Cornell                       Mechanical Engineering
+----------------------------------------------------------------------------------------------------------------

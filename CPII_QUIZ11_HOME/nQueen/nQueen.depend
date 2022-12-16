@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:e:\c\cpii_quiz11_home\nqueen\main.cpp
+	<iostream>
+
+1592651970 source:e:\c\cpii_quiz11_home\nqueen\src\slove.cpp
+	"slove.h"
+
+1592651970 e:\c\cpii_quiz11_home\nqueen\include\slove.h
+
+1592652337 source:e:\c\cpii_quiz11_home\nqueen\src\nqueen.cpp
+	"nQueen.h"
+	<iostream>
+
+1592652361 e:\c\cpii_quiz11_home\nqueen\include\nqueen.h
+	<iostream>
+

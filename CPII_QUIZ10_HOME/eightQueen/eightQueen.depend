@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592641041 source:e:\c\cpii_quiz10_home\eightqueen\src\eightqueenobject.cpp
+	"eightQueenObject.h"
+	<iostream>
+
+1592637882 e:\c\cpii_quiz10_home\eightqueen\include\eightqueenobject.h
+	<iostream>
+
+1592640514 source:e:\c\cpii_quiz10_home\eightqueen\main.cpp
+	<iostream>
+	"eightQueenObject.h"
+	<iostream>
+
